@@ -1,0 +1,3691 @@
+AC_log_norm.py generate log-norm AC data
+
+matlab code in nmfcode deal nmf on the normalized AC data and get the dicinary, but it can not work.
+
+we use dic gened by nmf on the original AC and normalized the dic then.
+
+
+Epoch 1/50
+----------
+train EpochLoss: 1664.8592 
+learning rate is 0.001
+BestLoss: 974.7130 is Epoch1 
+val EpochLoss: 974.7130 
+Epoch 2/50
+----------
+train EpochLoss: 815.1742 
+learning rate is 0.001
+BestLoss: 661.2939 is Epoch2 
+val EpochLoss: 661.2939 
+Epoch 3/50
+----------
+train EpochLoss: 598.6442 
+learning rate is 0.001
+BestLoss: 522.7130 is Epoch3 
+val EpochLoss: 522.7130 
+Epoch 4/50
+----------
+train EpochLoss: 485.4292 
+learning rate is 0.001
+BestLoss: 433.2328 is Epoch4 
+val EpochLoss: 433.2328 
+Epoch 5/50
+----------
+train EpochLoss: 411.0271 
+learning rate is 0.001
+BestLoss: 376.3441 is Epoch5 
+val EpochLoss: 376.3441 
+Epoch 6/50
+----------
+train EpochLoss: 359.5924 
+learning rate is 0.001
+BestLoss: 330.9483 is Epoch6 
+val EpochLoss: 330.9483 
+Epoch 7/50
+----------
+train EpochLoss: 320.1945 
+learning rate is 0.001
+BestLoss: 302.7008 is Epoch7 
+val EpochLoss: 302.7008 
+Epoch 8/50
+----------
+train EpochLoss: 292.2442 
+learning rate is 0.001
+BestLoss: 274.5125 is Epoch8 
+val EpochLoss: 274.5125 
+Epoch 9/50
+----------
+train EpochLoss: 275.3670 
+learning rate is 0.001
+BestLoss: 268.8022 is Epoch9 
+val EpochLoss: 268.8022 
+Epoch 10/50
+----------
+train EpochLoss: 250.3306 
+learning rate is 0.001
+BestLoss: 236.5057 is Epoch10 
+val EpochLoss: 236.5057 
+Epoch 11/50
+----------
+train EpochLoss: 237.6243 
+learning rate is 0.001
+BestLoss: 226.7882 is Epoch11 
+val EpochLoss: 226.7882 
+Epoch 12/50
+----------
+train EpochLoss: 224.2771 
+learning rate is 0.001
+BestLoss: 207.1552 is Epoch12 
+val EpochLoss: 207.1552 
+Epoch 13/50
+----------
+train EpochLoss: 205.7805 
+learning rate is 0.001
+BestLoss: 196.1630 is Epoch13 
+val EpochLoss: 196.1630 
+Epoch 14/50
+----------
+train EpochLoss: 199.6516 
+learning rate is 0.001
+BestLoss: 190.4861 is Epoch14 
+val EpochLoss: 190.4861 
+Epoch 15/50
+----------
+train EpochLoss: 194.0628 
+learning rate is 0.001
+BestLoss: 179.5400 is Epoch15 
+val EpochLoss: 179.5400 
+Epoch 16/50
+----------
+train EpochLoss: 184.0080 
+learning rate is 0.001
+BestLoss: 177.1322 is Epoch16 
+val EpochLoss: 177.1322 
+Epoch 17/50
+----------
+train EpochLoss: 176.6716 
+learning rate is 0.001
+BestLoss: 172.6889 is Epoch17 
+val EpochLoss: 172.6889 
+Epoch 18/50
+----------
+train EpochLoss: 174.1302 
+learning rate is 0.001
+BestLoss: 159.1241 is Epoch18 
+val EpochLoss: 159.1241 
+Epoch 19/50
+----------
+train EpochLoss: 166.8529 
+learning rate is 0.001
+val EpochLoss: 176.9305 
+Epoch 20/50
+----------
+train EpochLoss: 169.4205 
+learning rate is 0.001
+BestLoss: 152.9341 is Epoch20 
+val EpochLoss: 152.9341 
+Epoch 21/50
+----------
+train EpochLoss: 160.7631 
+learning rate is 0.001
+BestLoss: 150.6691 is Epoch21 
+val EpochLoss: 150.6691 
+Epoch 22/50
+----------
+train EpochLoss: 150.2125 
+learning rate is 0.001
+val EpochLoss: 153.6464 
+Epoch 23/50
+----------
+train EpochLoss: 153.1196 
+learning rate is 0.001
+BestLoss: 141.2592 is Epoch23 
+val EpochLoss: 141.2592 
+Epoch 24/50
+----------
+train EpochLoss: 164.6363 
+learning rate is 0.001
+val EpochLoss: 158.9092 
+Epoch 25/50
+----------
+train EpochLoss: 182.9853 
+learning rate is 0.001
+val EpochLoss: 183.6661 
+Epoch 26/50
+----------
+train EpochLoss: 201.3265 
+learning rate is 0.0005
+val EpochLoss: 182.2871 
+Epoch 27/50
+----------
+train EpochLoss: 147.6666 
+learning rate is 0.0005
+BestLoss: 136.2383 is Epoch27 
+val EpochLoss: 136.2383 
+Epoch 28/50
+----------
+train EpochLoss: 132.0276 
+learning rate is 0.0005
+BestLoss: 127.7936 is Epoch28 
+val EpochLoss: 127.7936 
+Epoch 29/50
+----------
+train EpochLoss: 128.9092 
+learning rate is 0.0005
+BestLoss: 127.3605 is Epoch29 
+val EpochLoss: 127.3605 
+Epoch 30/50
+----------
+train EpochLoss: 127.0655 
+learning rate is 0.0005
+BestLoss: 122.1296 is Epoch30 
+val EpochLoss: 122.1296 
+Epoch 31/50
+----------
+train EpochLoss: 125.8697 
+learning rate is 0.0005
+val EpochLoss: 124.5036 
+Epoch 32/50
+----------
+train EpochLoss: 125.1063 
+learning rate is 0.0005
+BestLoss: 119.9970 is Epoch32 
+val EpochLoss: 119.9970 
+Epoch 33/50
+----------
+train EpochLoss: 125.5953 
+learning rate is 0.0005
+val EpochLoss: 123.5193 
+Epoch 34/50
+----------
+train EpochLoss: 123.9975 
+learning rate is 0.0005
+BestLoss: 119.2965 is Epoch34 
+val EpochLoss: 119.2965 
+Epoch 35/50
+----------
+train EpochLoss: 121.9965 
+learning rate is 0.0005
+BestLoss: 116.6952 is Epoch35 
+val EpochLoss: 116.6952 
+Epoch 36/50
+----------
+train EpochLoss: 120.0939 
+learning rate is 0.0005
+BestLoss: 115.0968 is Epoch36 
+val EpochLoss: 115.0968 
+Epoch 37/50
+----------
+train EpochLoss: 120.7908 
+learning rate is 0.0005
+val EpochLoss: 119.2465 
+Epoch 38/50
+----------
+
+y = torch.diag(x, diagonal)：对角化/反对角化操作，diagonal = 0为主对角线，diagonal > 0为主对角线之上，diagonal < 0为主对角线之下；
+
+x=torch.eye(7)
+
+x=torch.ones(1,4)
+
+Epoch 1/50
+----------
+train EpochLoss: 3149.8308 
+learning rate is 0.001
+BestLoss: 586.7177 is Epoch1 
+val EpochLoss: 586.7177 
+Epoch 2/50
+----------
+train EpochLoss: 434.9109 
+learning rate is 0.001
+BestLoss: 307.2203 is Epoch2 
+val EpochLoss: 307.2203 
+Epoch 3/50
+----------
+train EpochLoss: 265.5197 
+learning rate is 0.001
+BestLoss: 226.8840 is Epoch3 
+val EpochLoss: 226.8840 
+Epoch 4/50
+----------
+train EpochLoss: 213.3313 
+learning rate is 0.001
+BestLoss: 191.8750 is Epoch4 
+val EpochLoss: 191.8750 
+Epoch 5/50
+----------
+train EpochLoss: 184.3061 
+learning rate is 0.001
+BestLoss: 169.6253 is Epoch5 
+val EpochLoss: 169.6253 
+Epoch 6/50
+----------
+train EpochLoss: 164.7508 
+learning rate is 0.001
+BestLoss: 153.3426 is Epoch6 
+val EpochLoss: 153.3426 
+Epoch 7/50
+----------
+train EpochLoss: 150.2006 
+learning rate is 0.001
+BestLoss: 143.4312 is Epoch7 
+val EpochLoss: 143.4312 
+Epoch 8/50
+----------
+train EpochLoss: 140.0195 
+learning rate is 0.001
+BestLoss: 130.5946 is Epoch8 
+val EpochLoss: 130.5946 
+Epoch 9/50
+----------
+train EpochLoss: 130.5626 
+learning rate is 0.001
+BestLoss: 126.5000 is Epoch9 
+val EpochLoss: 126.5000 
+Epoch 10/50
+----------
+train EpochLoss: 124.3593 
+learning rate is 0.001
+BestLoss: 122.2718 is Epoch10 
+val EpochLoss: 122.2718 
+Epoch 11/50
+----------
+train EpochLoss: 116.0682 
+learning rate is 0.001
+BestLoss: 110.6146 is Epoch11 
+val EpochLoss: 110.6146 
+Epoch 12/50
+----------
+train EpochLoss: 110.1840 
+learning rate is 0.001
+BestLoss: 105.9112 is Epoch12 
+val EpochLoss: 105.9112 
+Epoch 13/50
+----------
+train EpochLoss: 105.7072 
+learning rate is 0.001
+BestLoss: 100.8132 is Epoch13 
+val EpochLoss: 100.8132 
+Epoch 14/50
+----------
+train EpochLoss: 101.4406 
+learning rate is 0.001
+BestLoss: 97.9674 is Epoch14 
+val EpochLoss: 97.9674 
+Epoch 15/50
+----------
+train EpochLoss: 100.5135 
+learning rate is 0.001
+BestLoss: 94.1476 is Epoch15 
+val EpochLoss: 94.1476 
+Epoch 16/50
+----------
+train EpochLoss: 95.1697 
+learning rate is 0.001
+BestLoss: 91.3033 is Epoch16 
+val EpochLoss: 91.3033 
+Epoch 17/50
+----------
+train EpochLoss: 90.8963 
+learning rate is 0.001
+BestLoss: 88.0110 is Epoch17 
+val EpochLoss: 88.0110 
+Epoch 18/50
+----------
+train EpochLoss: 88.6885 
+learning rate is 0.001
+BestLoss: 86.3331 is Epoch18 
+val EpochLoss: 86.3331 
+Epoch 19/50
+----------
+train EpochLoss: 86.0987 
+learning rate is 0.001
+BestLoss: 83.3149 is Epoch19 
+val EpochLoss: 83.3149 
+Epoch 20/50
+----------
+train EpochLoss: 84.7178 
+learning rate is 0.001
+val EpochLoss: 84.6878 
+Epoch 21/50
+----------
+train EpochLoss: 83.4812 
+learning rate is 0.001
+BestLoss: 81.1509 is Epoch21 
+val EpochLoss: 81.1509 
+Epoch 22/50
+----------
+train EpochLoss: 80.5477 
+learning rate is 0.001
+BestLoss: 79.9775 is Epoch22 
+val EpochLoss: 79.9775 
+Epoch 23/50
+----------
+
+
+
+Epoch 1/50
+----------
+train EpochLoss: 144.1812 
+learning rate is 0.001
+BestLoss: 107.3596 is Epoch1 
+val EpochLoss: 107.3596 
+Epoch 2/50
+----------
+train EpochLoss: 100.6350 
+learning rate is 0.001
+BestLoss: 90.1753 is Epoch2 
+val EpochLoss: 90.1753 
+Epoch 3/50
+----------
+train EpochLoss: 93.8408 
+learning rate is 0.001
+BestLoss: 88.6973 is Epoch3 
+val EpochLoss: 88.6973 
+Epoch 4/50
+----------
+train EpochLoss: 92.6968 
+learning rate is 0.001
+BestLoss: 88.5714 is Epoch4 
+val EpochLoss: 88.5714 
+Epoch 5/50
+----------
+train EpochLoss: 93.0333 
+learning rate is 0.001
+BestLoss: 87.5400 is Epoch5 
+val EpochLoss: 87.5400 
+Epoch 6/50
+----------
+train EpochLoss: 90.7043 
+learning rate is 0.001
+BestLoss: 85.4749 is Epoch6 
+val EpochLoss: 85.4749 
+Epoch 7/50
+----------
+train EpochLoss: 89.6635 
+learning rate is 0.001
+BestLoss: 84.8149 is Epoch7 
+val EpochLoss: 84.8149 
+Epoch 8/50
+----------
+train EpochLoss: 89.4611 
+learning rate is 0.001
+BestLoss: 84.6931 is Epoch8 
+val EpochLoss: 84.6931 
+Epoch 9/50
+----------
+train EpochLoss: 88.9660 
+learning rate is 0.001
+val EpochLoss: 85.4502 
+Epoch 10/50
+----------
+train EpochLoss: 90.2327 
+learning rate is 0.001
+val EpochLoss: 87.7682 
+Epoch 11/50
+----------
+train EpochLoss: 88.2773 
+learning rate is 0.001
+BestLoss: 82.6182 is Epoch11 
+val EpochLoss: 82.6182 
+Epoch 12/50
+----------
+train EpochLoss: 88.2306 
+learning rate is 0.001
+val EpochLoss: 87.3818 
+Epoch 13/50
+----------
+train EpochLoss: 88.1263 
+learning rate is 0.001
+val EpochLoss: 85.1172 
+Epoch 14/50
+----------
+train EpochLoss: 86.8757 
+learning rate is 0.001
+BestLoss: 81.5833 is Epoch14 
+val EpochLoss: 81.5833 
+Epoch 15/50
+----------
+train EpochLoss: 85.7279 
+learning rate is 0.001
+BestLoss: 81.0665 is Epoch15 
+val EpochLoss: 81.0665 
+Epoch 16/50
+----------
+train EpochLoss: 86.0056 
+learning rate is 0.001
+BestLoss: 80.8535 is Epoch16 
+val EpochLoss: 80.8535 
+Epoch 17/50
+----------
+train EpochLoss: 85.4108 
+learning rate is 0.001
+val EpochLoss: 80.9582 
+Epoch 18/50
+----------
+train EpochLoss: 84.7904 
+learning rate is 0.001
+val EpochLoss: 83.3331 
+Epoch 19/50
+----------
+train EpochLoss: 86.0318 
+learning rate is 0.001
+BestLoss: 80.1555 is Epoch19 
+val EpochLoss: 80.1555 
+Epoch 20/50
+----------
+train EpochLoss: 85.6405 
+learning rate is 0.001
+BestLoss: 79.4823 is Epoch20 
+val EpochLoss: 79.4823 
+Epoch 21/50
+----------
+train EpochLoss: 83.5877 
+learning rate is 0.001
+val EpochLoss: 80.6032 
+Epoch 22/50
+----------
+train EpochLoss: 83.9625 
+learning rate is 0.001
+val EpochLoss: 81.5133 
+Epoch 23/50
+----------
+train EpochLoss: 83.6152 
+learning rate is 0.001
+BestLoss: 78.2366 is Epoch23 
+val EpochLoss: 78.2366 
+Epoch 24/50
+----------
+train EpochLoss: 83.4074 
+learning rate is 0.001
+BestLoss: 77.8559 is Epoch24 
+val EpochLoss: 77.8559 
+Epoch 25/50
+----------
+train EpochLoss: 83.1374 
+learning rate is 0.001
+val EpochLoss: 78.9870 
+Epoch 26/50
+----------
+train EpochLoss: 84.7242 
+learning rate is 0.001
+val EpochLoss: 81.7768 
+Epoch 27/50
+----------
+train EpochLoss: 83.4026 
+learning rate is 0.001
+BestLoss: 77.5750 is Epoch27 
+val EpochLoss: 77.5750 
+Epoch 28/50
+----------
+train EpochLoss: 81.1163 
+learning rate is 0.001
+BestLoss: 76.7102 is Epoch28 
+val EpochLoss: 76.7102 
+Epoch 29/50
+----------
+train EpochLoss: 81.9195 
+learning rate is 0.001
+val EpochLoss: 78.7430 
+Epoch 30/50
+----------
+train EpochLoss: 81.1743 
+learning rate is 0.001
+BestLoss: 76.3452 is Epoch30 
+val EpochLoss: 76.3452 
+Epoch 31/50
+----------
+train EpochLoss: 81.0757 
+learning rate is 0.001
+BestLoss: 75.9146 is Epoch31 
+val EpochLoss: 75.9146 
+Epoch 32/50
+----------
+train EpochLoss: 82.9886 
+learning rate is 0.001
+val EpochLoss: 78.5103 
+Epoch 33/50
+----------
+train EpochLoss: 82.0122 
+learning rate is 0.001
+val EpochLoss: 75.9696 
+Epoch 34/50
+----------
+train EpochLoss: 79.6995 
+learning rate is 0.001
+BestLoss: 75.3665 is Epoch34 
+val EpochLoss: 75.3665 
+Epoch 35/50
+----------
+train EpochLoss: 79.2141 
+learning rate is 0.001
+BestLoss: 75.2688 is Epoch35 
+val EpochLoss: 75.2688 
+Epoch 36/50
+----------
+train EpochLoss: 79.2975 
+learning rate is 0.001
+BestLoss: 74.8073 is Epoch36 
+val EpochLoss: 74.8073 
+Epoch 37/50
+----------
+train EpochLoss: 79.9931 
+learning rate is 0.001
+val EpochLoss: 77.1364 
+Epoch 38/50
+----------
+train EpochLoss: 81.6503 
+learning rate is 0.001
+val EpochLoss: 81.1040 
+Epoch 39/50
+----------
+train EpochLoss: 82.8562 
+learning rate is 0.0005
+val EpochLoss: 75.6675 
+Epoch 40/50
+----------
+train EpochLoss: 79.3918 
+learning rate is 0.0005
+val EpochLoss: 77.8832 
+Epoch 41/50
+----------
+train EpochLoss: 78.6380 
+learning rate is 0.0005
+BestLoss: 74.1664 is Epoch41 
+val EpochLoss: 74.1664 
+Epoch 42/50
+----------
+train EpochLoss: 77.7815 
+learning rate is 0.0005
+BestLoss: 73.9346 is Epoch42 
+val EpochLoss: 73.9346 
+Epoch 43/50
+----------
+train EpochLoss: 78.1739 
+learning rate is 0.0005
+BestLoss: 73.8947 is Epoch43 
+val EpochLoss: 73.8947 
+Epoch 44/50
+----------
+train EpochLoss: 77.7967 
+learning rate is 0.0005
+val EpochLoss: 76.4019 
+Epoch 45/50
+----------
+train EpochLoss: 77.6349 
+learning rate is 0.0005
+val EpochLoss: 75.0012 
+Epoch 46/50
+----------
+train EpochLoss: 77.9973 
+learning rate is 0.0005
+BestLoss: 73.7023 is Epoch46 
+val EpochLoss: 73.7023 
+Epoch 47/50
+----------
+train EpochLoss: 77.4042 
+learning rate is 0.0005
+BestLoss: 73.4964 is Epoch47 
+val EpochLoss: 73.4964 
+Epoch 48/50
+----------
+train EpochLoss: 77.6913 
+learning rate is 0.0005
+val EpochLoss: 74.2291 
+Epoch 49/50
+----------
+train EpochLoss: 77.6525 
+learning rate is 0.0005
+val EpochLoss: 73.6556 
+Epoch 50/50
+----------
+train EpochLoss: 77.0295 
+learning rate is 0.00025
+val EpochLoss: 73.8404 
+
+
+
+Epoch 1/120
+----------
+train EpochLoss: 4029.0186 
+learning rate is 0.01
+val EpochLoss: 1219.0839 
+Epoch 2/120
+----------
+train EpochLoss: 588.1234 
+learning rate is 0.01
+BestLoss: 163.0790 is Epoch2 
+val EpochLoss: 163.0790 
+Epoch 3/120
+----------
+train EpochLoss: 141.6212 
+learning rate is 0.01
+BestLoss: 99.4231 is Epoch3 
+val EpochLoss: 99.4231 
+Epoch 4/120
+----------
+train EpochLoss: 98.3727 
+learning rate is 0.01
+BestLoss: 84.7669 is Epoch4 
+val EpochLoss: 84.7669 
+Epoch 5/120
+----------
+train EpochLoss: 89.6090 
+learning rate is 0.01
+BestLoss: 83.9329 is Epoch5 
+val EpochLoss: 83.9329 
+Epoch 6/120
+----------
+train EpochLoss: 88.3339 
+learning rate is 0.01
+BestLoss: 83.5791 is Epoch6 
+val EpochLoss: 83.5791 
+Epoch 7/120
+----------
+train EpochLoss: 86.6033 
+learning rate is 0.01
+val EpochLoss: 83.9214 
+Epoch 8/120
+----------
+train EpochLoss: 86.8535 
+learning rate is 0.01
+BestLoss: 80.8162 is Epoch8 
+val EpochLoss: 80.8162 
+Epoch 9/120
+----------
+train EpochLoss: 85.4825 
+learning rate is 0.01
+val EpochLoss: 85.8486 
+Epoch 10/120
+----------
+train EpochLoss: 85.0950 
+learning rate is 0.01
+val EpochLoss: 81.6381 
+Epoch 11/120
+----------
+train EpochLoss: 83.5654 
+learning rate is 0.01
+BestLoss: 79.5696 is Epoch11 
+val EpochLoss: 79.5696 
+Epoch 12/120
+----------
+train EpochLoss: 84.9476 
+learning rate is 0.01
+BestLoss: 77.9297 is Epoch12 
+val EpochLoss: 77.9297 
+Epoch 13/120
+----------
+train EpochLoss: 84.6151 
+learning rate is 0.01
+BestLoss: 77.4692 is Epoch13 
+val EpochLoss: 77.4692 
+Epoch 14/120
+----------
+train EpochLoss: 81.9145 
+learning rate is 0.01
+val EpochLoss: 78.9583 
+Epoch 15/120
+----------
+train EpochLoss: 80.9072 
+learning rate is 0.01
+BestLoss: 76.3508 is Epoch15 
+val EpochLoss: 76.3508 
+Epoch 16/120
+----------
+train EpochLoss: 80.5930 
+learning rate is 0.01
+BestLoss: 75.6147 is Epoch16 
+val EpochLoss: 75.6147 
+Epoch 17/120
+----------
+train EpochLoss: 79.3978 
+learning rate is 0.01
+val EpochLoss: 77.0251 
+Epoch 18/120
+----------
+train EpochLoss: 78.9878 
+learning rate is 0.01
+val EpochLoss: 77.9989 
+Epoch 19/120
+----------
+train EpochLoss: 81.1287 
+learning rate is 0.005
+val EpochLoss: 79.5022 
+Epoch 20/120
+----------
+train EpochLoss: 78.7406 
+learning rate is 0.005
+BestLoss: 74.6625 is Epoch20 
+val EpochLoss: 74.6625 
+Epoch 21/120
+----------
+train EpochLoss: 78.3016 
+learning rate is 0.005
+BestLoss: 73.4555 is Epoch21 
+val EpochLoss: 73.4555 
+Epoch 22/120
+----------
+train EpochLoss: 77.4581 
+learning rate is 0.005
+val EpochLoss: 73.5675 
+Epoch 23/120
+----------
+train EpochLoss: 76.9489 
+learning rate is 0.005
+BestLoss: 73.1757 is Epoch23 
+val EpochLoss: 73.1757 
+Epoch 24/120
+----------
+train EpochLoss: 77.4389 
+learning rate is 0.005
+BestLoss: 72.9546 is Epoch24 
+val EpochLoss: 72.9546 
+Epoch 25/120
+----------
+train EpochLoss: 77.0033 
+learning rate is 0.005
+val EpochLoss: 73.2620 
+Epoch 26/120
+----------
+train EpochLoss: 77.2183 
+learning rate is 0.005
+val EpochLoss: 73.5104 
+Epoch 27/120
+----------
+train EpochLoss: 76.7760 
+learning rate is 0.005
+BestLoss: 72.2006 is Epoch27 
+val EpochLoss: 72.2006 
+Epoch 28/120
+----------
+train EpochLoss: 76.0576 
+learning rate is 0.005
+val EpochLoss: 72.8732 
+Epoch 29/120
+----------
+train EpochLoss: 76.4827 
+learning rate is 0.005
+BestLoss: 71.8478 is Epoch29 
+val EpochLoss: 71.8478 
+Epoch 30/120
+----------
+train EpochLoss: 75.6158 
+learning rate is 0.005
+val EpochLoss: 71.9744 
+Epoch 31/120
+----------
+train EpochLoss: 75.7845 
+learning rate is 0.005
+BestLoss: 71.5664 is Epoch31 
+val EpochLoss: 71.5664 
+Epoch 32/120
+----------
+train EpochLoss: 75.0596 
+learning rate is 0.005
+val EpochLoss: 72.0156 
+Epoch 33/120
+----------
+train EpochLoss: 76.4758 
+learning rate is 0.005
+val EpochLoss: 74.1439 
+Epoch 34/120
+----------
+train EpochLoss: 75.2094 
+learning rate is 0.005
+BestLoss: 70.9880 is Epoch34 
+val EpochLoss: 70.9880 
+Epoch 35/120
+----------
+train EpochLoss: 74.8484 
+learning rate is 0.005
+val EpochLoss: 71.3857 
+Epoch 36/120
+----------
+train EpochLoss: 74.2610 
+learning rate is 0.005
+BestLoss: 70.4885 is Epoch36 
+val EpochLoss: 70.4885 
+Epoch 37/120
+----------
+train EpochLoss: 74.7299 
+learning rate is 0.005
+val EpochLoss: 71.1584 
+Epoch 38/120
+----------
+train EpochLoss: 74.8605 
+learning rate is 0.005
+val EpochLoss: 72.5081 
+Epoch 39/120
+----------
+train EpochLoss: 74.3678 
+learning rate is 0.0025
+val EpochLoss: 72.0887 
+Epoch 40/120
+----------
+train EpochLoss: 73.8174 
+learning rate is 0.0025
+BestLoss: 70.1912 is Epoch40 
+val EpochLoss: 70.1912 
+Epoch 41/120
+----------
+train EpochLoss: 73.5236 
+learning rate is 0.0025
+BestLoss: 69.8197 is Epoch41 
+val EpochLoss: 69.8197 
+Epoch 42/120
+----------
+train EpochLoss: 73.7233 
+learning rate is 0.0025
+BestLoss: 69.5756 is Epoch42 
+val EpochLoss: 69.5756 
+Epoch 43/120
+----------
+train EpochLoss: 73.0522 
+learning rate is 0.0025
+val EpochLoss: 69.5996 
+Epoch 44/120
+----------
+train EpochLoss: 73.3944 
+learning rate is 0.0025
+BestLoss: 69.4074 is Epoch44 
+val EpochLoss: 69.4074 
+Epoch 45/120
+----------
+train EpochLoss: 73.6136 
+learning rate is 0.0025
+val EpochLoss: 69.5491 
+Epoch 46/120
+----------
+train EpochLoss: 73.0756 
+learning rate is 0.0025
+BestLoss: 69.3357 is Epoch46 
+val EpochLoss: 69.3357 
+Epoch 47/120
+----------
+train EpochLoss: 73.2502 
+learning rate is 0.0025
+BestLoss: 69.1250 is Epoch47 
+val EpochLoss: 69.1250 
+Epoch 48/120
+----------
+train EpochLoss: 73.1066 
+learning rate is 0.0025
+val EpochLoss: 69.6071 
+Epoch 49/120
+----------
+train EpochLoss: 73.6745 
+learning rate is 0.0025
+val EpochLoss: 70.6537 
+Epoch 50/120
+----------
+train EpochLoss: 72.7265 
+learning rate is 0.00125
+val EpochLoss: 69.6063 
+Epoch 51/120
+----------
+train EpochLoss: 72.6056 
+learning rate is 0.00125
+BestLoss: 68.9105 is Epoch51 
+val EpochLoss: 68.9105 
+Epoch 52/120
+----------
+train EpochLoss: 72.4075 
+learning rate is 0.00125
+BestLoss: 68.8016 is Epoch52 
+val EpochLoss: 68.8016 
+Epoch 53/120
+----------
+train EpochLoss: 72.2529 
+learning rate is 0.00125
+val EpochLoss: 68.9011 
+Epoch 54/120
+----------
+train EpochLoss: 72.4344 
+learning rate is 0.00125
+BestLoss: 68.7911 is Epoch54 
+val EpochLoss: 68.7911 
+Epoch 55/120
+----------
+train EpochLoss: 72.1648 
+learning rate is 0.00125
+val EpochLoss: 68.7992 
+Epoch 56/120
+----------
+train EpochLoss: 72.2121 
+learning rate is 0.00125
+BestLoss: 68.7550 is Epoch56 
+val EpochLoss: 68.7550 
+Epoch 57/120
+----------
+train EpochLoss: 72.2424 
+learning rate is 0.00125
+val EpochLoss: 69.2409 
+Epoch 58/120
+----------
+train EpochLoss: 72.2801 
+learning rate is 0.00125
+BestLoss: 68.4722 is Epoch58 
+val EpochLoss: 68.4722 
+Epoch 59/120
+----------
+train EpochLoss: 72.3450 
+learning rate is 0.00125
+val EpochLoss: 68.7469 
+Epoch 60/120
+----------
+train EpochLoss: 72.2052 
+learning rate is 0.00125
+val EpochLoss: 69.0368 
+Epoch 61/120
+----------
+train EpochLoss: 72.0940 
+learning rate is 0.000625
+val EpochLoss: 68.5959 
+Epoch 62/120
+----------
+train EpochLoss: 72.0484 
+learning rate is 0.000625
+val EpochLoss: 69.3253 
+Epoch 63/120
+----------
+train EpochLoss: 71.9439 
+learning rate is 0.000625
+BestLoss: 68.4099 is Epoch63 
+val EpochLoss: 68.4099 
+Epoch 64/120
+----------
+train EpochLoss: 71.8594 
+learning rate is 0.000625
+val EpochLoss: 68.4486 
+Epoch 65/120
+----------
+train EpochLoss: 71.9657 
+learning rate is 0.000625
+val EpochLoss: 68.4498 
+Epoch 66/120
+----------
+train EpochLoss: 71.7736 
+learning rate is 0.0003125
+val EpochLoss: 68.4344 
+Epoch 67/120
+----------
+train EpochLoss: 71.7106 
+learning rate is 0.0003125
+val EpochLoss: 68.5067 
+Epoch 68/120
+----------
+train EpochLoss: 71.6470 
+learning rate is 0.0003125
+val EpochLoss: 68.6013 
+Epoch 69/120
+----------
+train EpochLoss: 71.7593 
+learning rate is 0.0003125
+BestLoss: 68.3542 is Epoch69 
+val EpochLoss: 68.3542 
+Epoch 70/120
+----------
+train EpochLoss: 71.7056 
+learning rate is 0.0003125
+BestLoss: 68.2100 is Epoch70 
+val EpochLoss: 68.2100 
+Epoch 71/120
+----------
+train EpochLoss: 71.5895 
+learning rate is 0.0003125
+val EpochLoss: 68.6893 
+Epoch 72/120
+----------
+train EpochLoss: 71.6405 
+learning rate is 0.0003125
+val EpochLoss: 68.2638 
+Epoch 73/120
+----------
+train EpochLoss: 71.6386 
+learning rate is 0.00015625
+val EpochLoss: 68.4114 
+Epoch 74/120
+----------
+train EpochLoss: 71.6567 
+learning rate is 0.00015625
+BestLoss: 68.1946 is Epoch74 
+val EpochLoss: 68.1946 
+Epoch 75/120
+----------
+train EpochLoss: 71.5767 
+learning rate is 0.00015625
+val EpochLoss: 68.3799 
+Epoch 76/120
+
+==============================================================================
+
+Epoch 1/100
+----------
+train EpochLoss: 123.8222 
+learning rate is 0.01
+BestLoss: 110.4903 is Epoch1 
+val EpochLoss: 110.4903 
+Epoch 2/100
+----------
+train EpochLoss: 109.5951 
+learning rate is 0.01
+BestLoss: 101.1944 is Epoch2 
+val EpochLoss: 101.1944 
+Epoch 3/100
+----------
+train EpochLoss: 102.1315 
+learning rate is 0.01
+BestLoss: 95.4047 is Epoch3 
+val EpochLoss: 95.4047 
+Epoch 4/100
+----------
+train EpochLoss: 97.4109 
+learning rate is 0.01
+BestLoss: 91.7954 is Epoch4 
+val EpochLoss: 91.7954 
+Epoch 5/100
+----------
+train EpochLoss: 93.4901 
+learning rate is 0.01
+BestLoss: 87.7449 is Epoch5 
+val EpochLoss: 87.7449 
+Epoch 6/100
+----------
+train EpochLoss: 90.3554 
+learning rate is 0.01
+BestLoss: 84.7761 is Epoch6 
+val EpochLoss: 84.7761 
+Epoch 7/100
+----------
+train EpochLoss: 87.7471 
+learning rate is 0.01
+BestLoss: 83.3273 is Epoch7 
+val EpochLoss: 83.3273 
+Epoch 8/100
+----------
+train EpochLoss: 85.5707 
+learning rate is 0.01
+BestLoss: 80.7409 is Epoch8 
+val EpochLoss: 80.7409 
+Epoch 9/100
+----------
+train EpochLoss: 84.1002 
+learning rate is 0.01
+BestLoss: 80.6225 is Epoch9 
+val EpochLoss: 80.6225 
+Epoch 10/100
+----------
+train EpochLoss: 82.8246 
+learning rate is 0.01
+BestLoss: 77.9299 is Epoch10 
+val EpochLoss: 77.9299 
+Epoch 11/100
+----------
+train EpochLoss: 81.3945 
+learning rate is 0.01
+BestLoss: 76.8602 is Epoch11 
+val EpochLoss: 76.8602 
+Epoch 12/100
+----------
+train EpochLoss: 80.1829 
+learning rate is 0.01
+BestLoss: 75.6550 is Epoch12 
+val EpochLoss: 75.6550 
+Epoch 13/100
+----------
+train EpochLoss: 79.3893 
+learning rate is 0.01
+BestLoss: 75.0100 is Epoch13 
+val EpochLoss: 75.0100 
+Epoch 14/100
+----------
+train EpochLoss: 78.3606 
+learning rate is 0.01
+BestLoss: 74.0831 is Epoch14 
+val EpochLoss: 74.0831 
+Epoch 15/100
+----------
+train EpochLoss: 77.4606 
+learning rate is 0.01
+BestLoss: 73.7293 is Epoch15 
+val EpochLoss: 73.7293 
+Epoch 16/100
+----------
+train EpochLoss: 76.7873 
+learning rate is 0.01
+BestLoss: 73.5506 is Epoch16 
+val EpochLoss: 73.5506 
+Epoch 17/100
+----------
+train EpochLoss: 75.9702 
+learning rate is 0.01
+BestLoss: 71.6659 is Epoch17 
+val EpochLoss: 71.6659 
+Epoch 18/100
+----------
+train EpochLoss: 75.1326 
+learning rate is 0.01
+BestLoss: 71.4353 is Epoch18 
+val EpochLoss: 71.4353 
+Epoch 19/100
+----------
+train EpochLoss: 74.5468 
+learning rate is 0.01
+BestLoss: 70.4640 is Epoch19 
+val EpochLoss: 70.4640 
+Epoch 20/100
+----------
+train EpochLoss: 73.8556 
+learning rate is 0.01
+BestLoss: 69.9237 is Epoch20 
+val EpochLoss: 69.9237 
+Epoch 21/100
+----------
+train EpochLoss: 73.8655 
+learning rate is 0.01
+BestLoss: 69.7669 is Epoch21 
+val EpochLoss: 69.7669 
+Epoch 22/100
+----------
+train EpochLoss: 73.4697 
+learning rate is 0.01
+BestLoss: 69.2372 is Epoch22 
+val EpochLoss: 69.2372 
+Epoch 23/100
+----------
+train EpochLoss: 72.5947 
+learning rate is 0.01
+BestLoss: 68.7630 is Epoch23 
+val EpochLoss: 68.7630 
+Epoch 24/100
+----------
+train EpochLoss: 72.2444 
+learning rate is 0.01
+BestLoss: 68.2071 is Epoch24 
+val EpochLoss: 68.2071 
+Epoch 25/100
+----------
+train EpochLoss: 71.7196 
+learning rate is 0.01
+BestLoss: 68.1180 is Epoch25 
+val EpochLoss: 68.1180 
+Epoch 26/100
+----------
+train EpochLoss: 71.5734 
+learning rate is 0.01
+BestLoss: 67.9267 is Epoch26 
+val EpochLoss: 67.9267 
+Epoch 27/100
+----------
+train EpochLoss: 71.1880 
+learning rate is 0.01
+BestLoss: 67.5299 is Epoch27 
+val EpochLoss: 67.5299 
+Epoch 28/100
+----------
+train EpochLoss: 71.2197 
+learning rate is 0.01
+BestLoss: 67.0604 is Epoch28 
+val EpochLoss: 67.0604 
+Epoch 29/100
+----------
+train EpochLoss: 70.6799 
+learning rate is 0.01
+val EpochLoss: 67.1726 
+Epoch 30/100
+----------
+train EpochLoss: 70.2985 
+learning rate is 0.01
+BestLoss: 66.4195 is Epoch30 
+val EpochLoss: 66.4195 
+Epoch 31/100
+----------
+train EpochLoss: 69.8614 
+learning rate is 0.01
+val EpochLoss: 66.4845 
+Epoch 32/100
+----------
+train EpochLoss: 69.4954 
+learning rate is 0.01
+BestLoss: 65.8636 is Epoch32 
+val EpochLoss: 65.8636 
+Epoch 33/100
+----------
+train EpochLoss: 69.2633 
+learning rate is 0.01
+val EpochLoss: 66.1053 
+Epoch 34/100
+----------
+train EpochLoss: 69.3911 
+learning rate is 0.01
+BestLoss: 65.3866 is Epoch34 
+val EpochLoss: 65.3866 
+Epoch 35/100
+----------
+train EpochLoss: 68.7240 
+learning rate is 0.01
+BestLoss: 65.1117 is Epoch35 
+val EpochLoss: 65.1117 
+Epoch 36/100
+----------
+train EpochLoss: 68.5391 
+learning rate is 0.01
+val EpochLoss: 65.2083 
+Epoch 37/100
+----------
+train EpochLoss: 68.4408 
+learning rate is 0.01
+BestLoss: 64.7537 is Epoch37 
+val EpochLoss: 64.7537 
+Epoch 38/100
+----------
+train EpochLoss: 68.0253 
+learning rate is 0.01
+BestLoss: 64.7184 is Epoch38 
+val EpochLoss: 64.7184 
+Epoch 39/100
+----------
+train EpochLoss: 67.7606 
+learning rate is 0.01
+BestLoss: 64.3298 is Epoch39 
+val EpochLoss: 64.3298 
+Epoch 40/100
+----------
+train EpochLoss: 67.5533 
+learning rate is 0.01
+val EpochLoss: 64.8468 
+Epoch 41/100
+----------
+train EpochLoss: 68.4977 
+learning rate is 0.01
+val EpochLoss: 64.3756 
+Epoch 42/100
+----------
+train EpochLoss: 67.5073 
+learning rate is 0.01
+BestLoss: 63.8011 is Epoch42 
+val EpochLoss: 63.8011 
+Epoch 43/100
+----------
+train EpochLoss: 67.2017 
+learning rate is 0.01
+val EpochLoss: 63.8750 
+Epoch 44/100
+----------
+train EpochLoss: 67.0772 
+learning rate is 0.01
+BestLoss: 63.6575 is Epoch44 
+val EpochLoss: 63.6575 
+Epoch 45/100
+----------
+train EpochLoss: 66.9739 
+learning rate is 0.01
+BestLoss: 63.2251 is Epoch45 
+val EpochLoss: 63.2251 
+Epoch 46/100
+----------
+train EpochLoss: 66.6154 
+learning rate is 0.01
+BestLoss: 63.1634 is Epoch46 
+val EpochLoss: 63.1634 
+Epoch 47/100
+----------
+train EpochLoss: 66.3272 
+learning rate is 0.01
+val EpochLoss: 63.3239 
+Epoch 48/100
+----------
+train EpochLoss: 66.2112 
+learning rate is 0.01
+BestLoss: 62.9143 is Epoch48 
+val EpochLoss: 62.9143 
+Epoch 49/100
+----------
+train EpochLoss: 66.1431 
+learning rate is 0.01
+val EpochLoss: 64.1587 
+Epoch 50/100
+----------
+train EpochLoss: 66.4995 
+learning rate is 0.01
+val EpochLoss: 63.0546 
+Epoch 51/100
+----------
+train EpochLoss: 66.6404 
+learning rate is 0.01
+BestLoss: 62.3886 is Epoch51 
+val EpochLoss: 62.3886 
+Epoch 52/100
+----------
+train EpochLoss: 65.6268 
+learning rate is 0.01
+BestLoss: 62.3425 is Epoch52 
+val EpochLoss: 62.3425 
+Epoch 53/100
+----------
+train EpochLoss: 65.5588 
+learning rate is 0.01
+BestLoss: 62.2271 is Epoch53 
+val EpochLoss: 62.2271 
+Epoch 54/100
+----------
+train EpochLoss: 65.4305 
+learning rate is 0.01
+val EpochLoss: 63.2137 
+Epoch 55/100
+----------
+train EpochLoss: 65.4215 
+learning rate is 0.01
+val EpochLoss: 62.5462 
+Epoch 56/100
+----------
+train EpochLoss: 65.7013 
+learning rate is 0.01
+BestLoss: 62.0097 is Epoch56 
+val EpochLoss: 62.0097 
+Epoch 57/100
+----------
+train EpochLoss: 65.2478 
+learning rate is 0.01
+BestLoss: 61.8574 is Epoch57 
+val EpochLoss: 61.8574 
+Epoch 58/100
+----------
+train EpochLoss: 64.9886 
+learning rate is 0.01
+BestLoss: 61.7913 is Epoch58 
+val EpochLoss: 61.7913 
+Epoch 59/100
+----------
+train EpochLoss: 65.6418 
+learning rate is 0.01
+val EpochLoss: 62.0775 
+Epoch 60/100
+----------
+train EpochLoss: 65.0856 
+learning rate is 0.01
+val EpochLoss: 62.2764 
+Epoch 61/100
+----------
+train EpochLoss: 64.7071 
+learning rate is 0.01
+BestLoss: 61.2583 is Epoch61 
+val EpochLoss: 61.2583 
+Epoch 62/100
+----------
+train EpochLoss: 64.3971 
+learning rate is 0.01
+BestLoss: 60.9648 is Epoch62 
+val EpochLoss: 60.9648 
+Epoch 63/100
+----------
+train EpochLoss: 64.2603 
+learning rate is 0.01
+val EpochLoss: 61.4926 
+Epoch 64/100
+----------
+train EpochLoss: 64.1842 
+learning rate is 0.01
+BestLoss: 60.8935 is Epoch64 
+val EpochLoss: 60.8935 
+Epoch 65/100
+----------
+train EpochLoss: 64.7172 
+learning rate is 0.01
+val EpochLoss: 63.8891 
+Epoch 66/100
+----------
+train EpochLoss: 64.9414 
+learning rate is 0.01
+val EpochLoss: 61.2109 
+Epoch 67/100
+----------
+train EpochLoss: 64.1674 
+learning rate is 0.01
+BestLoss: 60.8842 is Epoch67 
+val EpochLoss: 60.8842 
+Epoch 68/100
+----------
+train EpochLoss: 64.2197 
+learning rate is 0.01
+BestLoss: 60.6861 is Epoch68 
+val EpochLoss: 60.6861 
+Epoch 69/100
+----------
+train EpochLoss: 63.8816 
+learning rate is 0.01
+BestLoss: 60.5539 is Epoch69 
+val EpochLoss: 60.5539 
+Epoch 70/100
+----------
+train EpochLoss: 63.8109 
+learning rate is 0.01
+val EpochLoss: 61.4677 
+Epoch 71/100
+----------
+train EpochLoss: 63.8887 
+learning rate is 0.01
+val EpochLoss: 61.1307 
+Epoch 72/100
+----------
+train EpochLoss: 64.2486 
+learning rate is 0.005
+val EpochLoss: 61.2229 
+Epoch 73/100
+----------
+train EpochLoss: 63.4280 
+learning rate is 0.005
+BestLoss: 60.2815 is Epoch73 
+val EpochLoss: 60.2815 
+Epoch 74/100
+----------
+train EpochLoss: 63.2593 
+learning rate is 0.005
+val EpochLoss: 60.8355 
+Epoch 75/100
+----------
+train EpochLoss: 63.4375 
+learning rate is 0.005
+BestLoss: 60.1653 is Epoch75 
+val EpochLoss: 60.1653 
+Epoch 76/100
+----------
+train EpochLoss: 63.0704 
+learning rate is 0.005
+BestLoss: 60.0041 is Epoch76 
+val EpochLoss: 60.0041 
+Epoch 77/100
+----------
+train EpochLoss: 63.0688 
+learning rate is 0.005
+val EpochLoss: 60.4199 
+Epoch 78/100
+----------
+train EpochLoss: 63.1363 
+learning rate is 0.005
+val EpochLoss: 60.1685 
+Epoch 79/100
+----------
+train EpochLoss: 63.0408 
+learning rate is 0.0025
+val EpochLoss: 60.5746 
+Epoch 80/100
+----------
+train EpochLoss: 62.8659 
+learning rate is 0.0025
+val EpochLoss: 60.0475 
+Epoch 81/100
+----------
+train EpochLoss: 62.9197 
+learning rate is 0.0025
+val EpochLoss: 60.4583 
+Epoch 82/100
+----------
+train EpochLoss: 62.7972 
+learning rate is 0.0025
+BestLoss: 59.8358 is Epoch82 
+val EpochLoss: 59.8358 
+Epoch 83/100
+----------
+train EpochLoss: 62.6898 
+learning rate is 0.0025
+BestLoss: 59.7438 is Epoch83 
+val EpochLoss: 59.7438 
+Epoch 84/100
+----------
+train EpochLoss: 62.6958 
+learning rate is 0.0025
+val EpochLoss: 60.0415 
+Epoch 85/100
+----------
+train EpochLoss: 62.7901 
+learning rate is 0.0025
+BestLoss: 59.7382 is Epoch85 
+val EpochLoss: 59.7382 
+Epoch 86/100
+----------
+train EpochLoss: 62.7878 
+learning rate is 0.00125
+val EpochLoss: 59.7722 
+Epoch 87/100
+----------
+train EpochLoss: 62.6654 
+learning rate is 0.00125
+BestLoss: 59.7257 is Epoch87 
+val EpochLoss: 59.7257 
+Epoch 88/100
+----------
+train EpochLoss: 62.5778 
+learning rate is 0.00125
+val EpochLoss: 59.8521 
+Epoch 89/100
+----------
+train EpochLoss: 62.5604 
+learning rate is 0.00125
+BestLoss: 59.7140 is Epoch89 
+val EpochLoss: 59.7140 
+Epoch 90/100
+----------
+train EpochLoss: 62.5733 
+learning rate is 0.00125
+BestLoss: 59.6157 is Epoch90 
+val EpochLoss: 59.6157 
+Epoch 91/100
+----------
+train EpochLoss: 62.5761 
+learning rate is 0.00125
+val EpochLoss: 59.6943 
+Epoch 92/100
+----------
+train EpochLoss: 62.5369 
+learning rate is 0.00125
+val EpochLoss: 59.6185 
+Epoch 93/100
+----------
+train EpochLoss: 62.5690 
+learning rate is 0.000625
+BestLoss: 59.6132 is Epoch93 
+val EpochLoss: 59.6132 
+Epoch 94/100
+----------
+train EpochLoss: 62.5258 
+learning rate is 0.000625
+val EpochLoss: 59.7276 
+Epoch 95/100
+----------
+train EpochLoss: 62.5711 
+learning rate is 0.000625
+val EpochLoss: 59.6133 
+Epoch 96/100
+----------
+train EpochLoss: 62.5079 
+learning rate is 0.000625
+BestLoss: 59.5996 is Epoch96 
+val EpochLoss: 59.5996 
+Epoch 97/100
+----------
+train EpochLoss: 62.5490 
+learning rate is 0.000625
+BestLoss: 59.5629 is Epoch97 
+val EpochLoss: 59.5629 
+Epoch 98/100
+
+
+=============================================================================
+----------
+train EpochLoss: 124.9830 
+learning rate is 0.01
+BestLoss: 109.8109 is Epoch1 
+val EpochLoss: 109.8109 
+Epoch 2/100
+----------
+train EpochLoss: 108.6981 
+learning rate is 0.01
+BestLoss: 99.4897 is Epoch2 
+val EpochLoss: 99.4897 
+Epoch 3/100
+----------
+train EpochLoss: 100.8071 
+learning rate is 0.01
+BestLoss: 93.3243 is Epoch3 
+val EpochLoss: 93.3243 
+Epoch 4/100
+----------
+train EpochLoss: 95.3467 
+learning rate is 0.01
+BestLoss: 88.5472 is Epoch4 
+val EpochLoss: 88.5472 
+Epoch 5/100
+----------
+train EpochLoss: 91.3003 
+learning rate is 0.01
+BestLoss: 85.4191 is Epoch5 
+val EpochLoss: 85.4191 
+Epoch 6/100
+----------
+train EpochLoss: 88.1823 
+learning rate is 0.01
+BestLoss: 82.4337 is Epoch6 
+val EpochLoss: 82.4337 
+Epoch 7/100
+----------
+train EpochLoss: 85.2919 
+learning rate is 0.01
+BestLoss: 80.8907 is Epoch7 
+val EpochLoss: 80.8907 
+Epoch 8/100
+----------
+train EpochLoss: 83.2393 
+learning rate is 0.01
+BestLoss: 77.9243 is Epoch8 
+val EpochLoss: 77.9243 
+Epoch 9/100
+----------
+train EpochLoss: 81.2671 
+learning rate is 0.01
+BestLoss: 76.3619 is Epoch9 
+val EpochLoss: 76.3619 
+Epoch 10/100
+----------
+train EpochLoss: 80.2661 
+learning rate is 0.01
+BestLoss: 74.8345 is Epoch10 
+val EpochLoss: 74.8345 
+Epoch 11/100
+----------
+train EpochLoss: 78.6825 
+learning rate is 0.01
+BestLoss: 74.2902 is Epoch11 
+val EpochLoss: 74.2902 
+Epoch 12/100
+----------
+train EpochLoss: 77.4309 
+learning rate is 0.01
+BestLoss: 72.4775 is Epoch12 
+val EpochLoss: 72.4775 
+Epoch 13/100
+----------
+train EpochLoss: 75.8305 
+learning rate is 0.01
+val EpochLoss: 72.8727 
+Epoch 14/100
+----------
+
+Epoch 1/100
+----------
+train EpochLoss: 380.6471 
+learning rate is 0.01
+BestLoss: 110.9134 is Epoch1 
+val EpochLoss: 110.9134 
+Epoch 2/100
+----------
+train EpochLoss: 112.6093 
+learning rate is 0.01
+BestLoss: 105.7413 is Epoch2 
+val EpochLoss: 105.7413 
+Epoch 3/100
+----------
+train EpochLoss: 108.3792 
+learning rate is 0.01
+BestLoss: 102.6327 is Epoch3 
+val EpochLoss: 102.6327 
+Epoch 4/100
+----------
+train EpochLoss: 105.3669 
+learning rate is 0.01
+BestLoss: 100.1690 is Epoch4 
+val EpochLoss: 100.1690 
+Epoch 5/100
+----------
+train EpochLoss: 103.1309 
+learning rate is 0.01
+BestLoss: 97.8120 is Epoch5 
+val EpochLoss: 97.8120 
+Epoch 6/100
+----------
+train EpochLoss: 100.7217 
+learning rate is 0.01
+BestLoss: 95.9659 is Epoch6 
+val EpochLoss: 95.9659 
+Epoch 7/100
+----------
+train EpochLoss: 98.9210 
+learning rate is 0.01
+BestLoss: 94.6782 is Epoch7 
+val EpochLoss: 94.6782 
+Epoch 8/100
+----------
+train EpochLoss: 98.0783 
+learning rate is 0.01
+BestLoss: 93.9297 is Epoch8 
+val EpochLoss: 93.9297 
+Epoch 9/100
+----------
+train EpochLoss: 97.4261 
+learning rate is 0.01
+BestLoss: 93.1687 is Epoch9 
+val EpochLoss: 93.1687 
+Epoch 10/100
+----------
+train EpochLoss: 96.0811 
+learning rate is 0.01
+BestLoss: 92.1483 is Epoch10 
+val EpochLoss: 92.1483 
+Epoch 11/100
+----------
+
+Epoch 1/100
+----------
+train EpochLoss: 339.5940 
+learning rate is 0.01
+BestLoss: 100.6356 is Epoch1 
+val EpochLoss: 100.6356 
+Epoch 2/100
+----------
+train EpochLoss: 96.5907 
+learning rate is 0.01
+BestLoss: 83.9964 is Epoch2 
+val EpochLoss: 83.9964 
+Epoch 3/100
+----------
+train EpochLoss: 84.1964 
+learning rate is 0.01
+BestLoss: 75.9036 is Epoch3 
+val EpochLoss: 75.9036 
+Epoch 4/100
+----------
+
+Epoch 1/100
+----------
+train EpochLoss: 361.8248 
+learning rate is 0.01
+BestLoss: 105.3728 is Epoch1 
+val EpochLoss: 105.3728 
+Epoch 2/100
+----------
+train EpochLoss: 97.7568 
+learning rate is 0.01
+BestLoss: 84.1318 is Epoch2 
+val EpochLoss: 84.1318 
+Epoch 3/100
+----------
+train EpochLoss: 85.3078 
+learning rate is 0.01
+BestLoss: 78.6225 is Epoch3 
+val EpochLoss: 78.6225 
+Epoch 4/100
+----------
+train EpochLoss: 81.9750 
+learning rate is 0.01
+BestLoss: 74.9688 is Epoch4 
+val EpochLoss: 74.9688 
+Epoch 5/100
+
+
+
+Epoch 1/100
+----------
+train EpochLoss: 261.8282 
+learning rate is 0.01
+BestLoss: 104.9144 is Epoch1 
+val EpochLoss: 104.9144 
+Epoch 2/100
+----------
+train EpochLoss: 99.9612 
+learning rate is 0.01
+BestLoss: 88.7202 is Epoch2 
+val EpochLoss: 88.7202 
+Epoch 3/100
+----------
+train EpochLoss: 87.8526 
+learning rate is 0.01
+BestLoss: 82.7171 is Epoch3 
+val EpochLoss: 82.7171 
+Epoch 4/100
+----------
+train EpochLoss: 81.3762 
+learning rate is 0.01
+BestLoss: 75.5808 is Epoch4 
+val EpochLoss: 75.5808 
+Epoch 5/100
+----------
+train EpochLoss: 77.6542 
+learning rate is 0.01
+BestLoss: 72.8255 is Epoch5 
+val EpochLoss: 72.8255 
+Epoch 6/100
+----------
+train EpochLoss: 74.3377 
+learning rate is 0.01
+BestLoss: 68.6249 is Epoch6 
+val EpochLoss: 68.6249 
+Epoch 7/100
+----------
+train EpochLoss: 69.7933 
+learning rate is 0.01
+BestLoss: 64.8415 is Epoch7 
+val EpochLoss: 64.8415 
+Epoch 8/100
+----------
+train EpochLoss: 65.8796 
+learning rate is 0.01
+BestLoss: 62.4917 is Epoch8 
+val EpochLoss: 62.4917 
+Epoch 9/100
+----------
+train EpochLoss: 63.5638 
+learning rate is 0.01
+BestLoss: 59.5200 is Epoch9 
+val EpochLoss: 59.5200 
+Epoch 10/100
+----------
+train EpochLoss: 60.8452 
+learning rate is 0.01
+BestLoss: 58.3923 is Epoch10 
+val EpochLoss: 58.3923 
+Epoch 11/100
+----------
+train EpochLoss: 58.2591 
+learning rate is 0.01
+BestLoss: 55.5405 is Epoch11 
+val EpochLoss: 55.5405 
+Epoch 12/100
+----------
+train EpochLoss: 55.8812 
+learning rate is 0.01
+BestLoss: 53.8286 is Epoch12 
+val EpochLoss: 53.8286 
+Epoch 13/100
+----------
+train EpochLoss: 53.6744 
+learning rate is 0.01
+BestLoss: 51.3766 is Epoch13 
+val EpochLoss: 51.3766 
+Epoch 14/100
+----------
+train EpochLoss: 51.4948 
+learning rate is 0.01
+BestLoss: 49.7106 is Epoch14 
+val EpochLoss: 49.7106 
+Epoch 15/100
+----------
+train EpochLoss: 50.0609 
+learning rate is 0.01
+BestLoss: 48.9269 is Epoch15 
+val EpochLoss: 48.9269 
+Epoch 16/100
+----------
+train EpochLoss: 49.6788 
+learning rate is 0.01
+BestLoss: 48.8867 is Epoch16 
+val EpochLoss: 48.8867 
+Epoch 17/100
+----------
+train EpochLoss: 49.1887 
+learning rate is 0.01
+BestLoss: 47.8777 is Epoch17 
+val EpochLoss: 47.8777 
+Epoch 18/100
+----------
+train EpochLoss: 46.9388 
+learning rate is 0.01
+BestLoss: 46.1039 is Epoch18 
+val EpochLoss: 46.1039 
+Epoch 19/100
+----------
+train EpochLoss: 44.9647 
+learning rate is 0.01
+BestLoss: 44.3114 is Epoch19 
+val EpochLoss: 44.3114 
+Epoch 20/100
+----------
+train EpochLoss: 44.6693 
+learning rate is 0.01
+val EpochLoss: 47.3720 
+Epoch 21/100
+----------
+train EpochLoss: 43.6319 
+learning rate is 0.01
+BestLoss: 43.1040 is Epoch21 
+val EpochLoss: 43.1040 
+Epoch 22/100
+----------
+train EpochLoss: 42.1519 
+learning rate is 0.01
+BestLoss: 42.6848 is Epoch22 
+val EpochLoss: 42.6848 
+Epoch 23/100
+----------
+train EpochLoss: 41.1985 
+learning rate is 0.01
+BestLoss: 42.2033 is Epoch23 
+val EpochLoss: 42.2033 
+Epoch 24/100
+----------
+train EpochLoss: 40.4350 
+learning rate is 0.01
+val EpochLoss: 42.7907 
+Epoch 25/100
+----------
+train EpochLoss: 40.1683 
+learning rate is 0.01
+val EpochLoss: 43.0786 
+Epoch 26/100
+----------
+train EpochLoss: 39.5078 
+learning rate is 0.01
+BestLoss: 41.9706 is Epoch26 
+val EpochLoss: 41.9706 
+Epoch 27/100
+----------
+train EpochLoss: 38.7351 
+learning rate is 0.01
+BestLoss: 41.8074 is Epoch27 
+val EpochLoss: 41.8074 
+Epoch 28/100
+----------
+train EpochLoss: 38.0721 
+learning rate is 0.01
+BestLoss: 41.1218 is Epoch28 
+val EpochLoss: 41.1218 
+Epoch 29/100
+----------
+train EpochLoss: 38.0394 
+learning rate is 0.01
+val EpochLoss: 41.1468 
+Epoch 30/100
+----------
+train EpochLoss: 37.4867 
+learning rate is 0.01
+BestLoss: 40.8918 is Epoch30 
+val EpochLoss: 40.8918 
+Epoch 31/100
+----------
+train EpochLoss: 36.9345 
+learning rate is 0.01
+BestLoss: 40.4655 is Epoch31 
+val EpochLoss: 40.4655 
+Epoch 32/100
+----------
+train EpochLoss: 36.5003 
+learning rate is 0.01
+val EpochLoss: 41.3667 
+Epoch 33/100
+----------
+train EpochLoss: 35.9817 
+learning rate is 0.01
+BestLoss: 40.3847 is Epoch33 
+val EpochLoss: 40.3847 
+Epoch 34/100
+----------
+train EpochLoss: 35.2761 
+learning rate is 0.01
+BestLoss: 40.1099 is Epoch34 
+val EpochLoss: 40.1099 
+Epoch 35/100
+----------
+train EpochLoss: 35.1846 
+learning rate is 0.01
+val EpochLoss: 40.6935 
+Epoch 36/100
+----------
+train EpochLoss: 35.3045 
+learning rate is 0.01
+val EpochLoss: 40.1372 
+Epoch 37/100
+----------
+train EpochLoss: 34.6680 
+learning rate is 0.01
+BestLoss: 39.7074 is Epoch37 
+val EpochLoss: 39.7074 
+Epoch 38/100
+----------
+train EpochLoss: 34.3021 
+learning rate is 0.01
+BestLoss: 39.6026 is Epoch38 
+val EpochLoss: 39.6026 
+Epoch 39/100
+----------
+train EpochLoss: 33.8229 
+learning rate is 0.01
+val EpochLoss: 40.1441 
+Epoch 40/100
+----------
+train EpochLoss: 33.6471 
+learning rate is 0.01
+val EpochLoss: 40.5518 
+Epoch 41/100
+----------
+
+
+train EpochLoss: 33.3306 
+learning rate is 0.005
+val EpochLoss: 40.1048 
+Epoch 42/100
+----------
+train EpochLoss: 32.6292 
+learning rate is 0.005
+val EpochLoss: 39.7471 
+Epoch 43/100
+----------
+train EpochLoss: 32.1344 
+learning rate is 0.005
+val EpochLoss: 39.8227 
+Epoch 44/100
+----------
+train EpochLoss: 31.8854 
+learning rate is 0.005
+BestLoss: 39.5313 is Epoch44 
+val EpochLoss: 39.5313 
+Epoch 45/100
+----------
+train EpochLoss: 31.7915 
+learning rate is 0.005
+val EpochLoss: 40.0658 
+Epoch 46/100
+----------
+train EpochLoss: 31.6658 
+learning rate is 0.005
+val EpochLoss: 39.9097 
+Epoch 47/100
+----------
+train EpochLoss: 31.6192 
+learning rate is 0.0025
+val EpochLoss: 39.9174 
+Epoch 48/100
+----------
+train EpochLoss: 31.2160 
+learning rate is 0.0025
+val EpochLoss: 39.8007 
+Epoch 49/100
+----------
+train EpochLoss: 31.0277 
+learning rate is 0.0025
+val EpochLoss: 39.8464 
+Epoch 50/100
+----------
+train EpochLoss: 30.9506 
+learning rate is 0.00125
+val EpochLoss: 39.9687 
+Epoch 51/100
+----------
+
+Epoch 1/100
+----------
+train EpochLoss: 188.4553 
+learning rate is 0.01
+BestLoss: 95.9252 is Epoch1 
+val EpochLoss: 95.9252 
+Epoch 2/100
+----------
+train EpochLoss: 89.2992 
+learning rate is 0.01
+BestLoss: 78.8862 is Epoch2 
+val EpochLoss: 78.8862 
+Epoch 3/100
+----------
+train EpochLoss: 79.1669 
+learning rate is 0.01
+BestLoss: 72.7584 is Epoch3 
+val EpochLoss: 72.7584 
+Epoch 4/100
+----------
+train EpochLoss: 71.4372 
+learning rate is 0.01
+BestLoss: 66.7161 is Epoch4 
+val EpochLoss: 66.7161 
+Epoch 5/100
+----------
+train EpochLoss: 66.7278 
+learning rate is 0.01
+BestLoss: 62.7095 is Epoch5 
+val EpochLoss: 62.7095 
+Epoch 6/100
+----------
+train EpochLoss: 62.5449 
+learning rate is 0.01
+BestLoss: 58.2197 is Epoch6 
+val EpochLoss: 58.2197 
+Epoch 7/100
+----------
+train EpochLoss: 58.8592 
+learning rate is 0.01
+BestLoss: 54.7877 is Epoch7 
+val EpochLoss: 54.7877 
+Epoch 8/100
+----------
+train EpochLoss: 55.6049 
+learning rate is 0.01
+BestLoss: 54.1697 is Epoch8 
+val EpochLoss: 54.1697 
+Epoch 9/100
+----------
+train EpochLoss: 54.2105 
+learning rate is 0.01
+BestLoss: 51.9555 is Epoch9 
+val EpochLoss: 51.9555 
+Epoch 10/100
+----------
+train EpochLoss: 52.6660 
+learning rate is 0.01
+BestLoss: 48.9977 is Epoch10 
+val EpochLoss: 48.9977 
+Epoch 11/100
+----------
+train EpochLoss: 49.3601 
+learning rate is 0.01
+BestLoss: 47.7682 is Epoch11 
+val EpochLoss: 47.7682 
+Epoch 12/100
+----------
+train EpochLoss: 48.1065 
+learning rate is 0.01
+BestLoss: 46.4390 is Epoch12 
+val EpochLoss: 46.4390 
+Epoch 13/100
+----------
+train EpochLoss: 46.6857 
+learning rate is 0.01
+BestLoss: 45.4337 is Epoch13 
+val EpochLoss: 45.4337 
+Epoch 14/100
+----------
+train EpochLoss: 45.1083 
+learning rate is 0.01
+BestLoss: 44.8287 is Epoch14 
+val EpochLoss: 44.8287 
+Epoch 15/100
+----------
+train EpochLoss: 44.1255 
+learning rate is 0.01
+BestLoss: 43.2858 is Epoch15 
+val EpochLoss: 43.2858 
+Epoch 16/100
+----------
+train EpochLoss: 43.3112 
+learning rate is 0.01
+val EpochLoss: 45.3165 
+Epoch 17/100
+----------
+train EpochLoss: 42.9183 
+learning rate is 0.01
+val EpochLoss: 43.8184 
+Epoch 18/100
+----------
+train EpochLoss: 42.0729 
+learning rate is 0.01
+BestLoss: 42.2912 is Epoch18 
+val EpochLoss: 42.2912 
+Epoch 19/100
+----------
+train EpochLoss: 41.4755 
+learning rate is 0.01
+BestLoss: 41.3623 is Epoch19 
+val EpochLoss: 41.3623 
+Epoch 20/100
+----------
+train EpochLoss: 40.4087 
+learning rate is 0.01
+BestLoss: 40.9584 is Epoch20 
+val EpochLoss: 40.9584 
+Epoch 21/100
+----------
+train EpochLoss: 39.7165 
+learning rate is 0.01
+BestLoss: 40.4030 is Epoch21 
+val EpochLoss: 40.4030 
+Epoch 22/100
+----------
+train EpochLoss: 39.2751 
+learning rate is 0.01
+BestLoss: 40.3588 is Epoch22 
+val EpochLoss: 40.3588 
+Epoch 23/100
+----------
+train EpochLoss: 38.3723 
+learning rate is 0.01
+BestLoss: 40.0830 is Epoch23 
+val EpochLoss: 40.0830 
+Epoch 24/100
+----------
+train EpochLoss: 37.6662 
+learning rate is 0.01
+BestLoss: 40.0229 is Epoch24 
+val EpochLoss: 40.0229 
+Epoch 25/100
+----------
+train EpochLoss: 37.2358 
+learning rate is 0.01
+val EpochLoss: 40.3378 
+Epoch 26/100
+----------
+train EpochLoss: 37.0344 
+learning rate is 0.01
+BestLoss: 39.7447 is Epoch26 
+val EpochLoss: 39.7447 
+Epoch 27/100
+----------
+train EpochLoss: 36.4003 
+learning rate is 0.01
+BestLoss: 38.8795 is Epoch27 
+val EpochLoss: 38.8795 
+Epoch 28/100
+----------
+train EpochLoss: 35.6579 
+learning rate is 0.01
+val EpochLoss: 39.0555 
+Epoch 29/100
+----------
+train EpochLoss: 35.3335 
+learning rate is 0.01
+BestLoss: 38.5873 is Epoch29 
+val EpochLoss: 38.5873 
+Epoch 30/100
+----------
+train EpochLoss: 34.7393 
+learning rate is 0.01
+val EpochLoss: 38.9607 
+Epoch 31/100
+----------
+train EpochLoss: 34.5290 
+learning rate is 0.01
+BestLoss: 38.2712 is Epoch31 
+val EpochLoss: 38.2712 
+Epoch 32/100
+----------
+train EpochLoss: 33.9496 
+learning rate is 0.01
+val EpochLoss: 38.4959 
+Epoch 33/100
+----------
+train EpochLoss: 33.3581 
+learning rate is 0.01
+BestLoss: 38.2020 is Epoch33 
+val EpochLoss: 38.2020 
+Epoch 34/100
+----------
+train EpochLoss: 33.0510 
+learning rate is 0.01
+val EpochLoss: 38.2131 
+Epoch 35/100
+----------
+train EpochLoss: 32.5440 
+learning rate is 0.01
+val EpochLoss: 38.3345 
+Epoch 36/100
+----------
+train EpochLoss: 32.6147 
+learning rate is 0.01
+BestLoss: 38.0912 is Epoch36 
+val EpochLoss: 38.0912 
+Epoch 37/100
+----------
+train EpochLoss: 32.5693 
+learning rate is 0.01
+val EpochLoss: 39.1363 
+Epoch 38/100
+----------
+train EpochLoss: 32.3975 
+learning rate is 0.01
+val EpochLoss: 38.6793 
+Epoch 39/100
+----------
+train EpochLoss: 31.8456 
+learning rate is 0.01
+BestLoss: 37.7334 is Epoch39 
+val EpochLoss: 37.7334 
+Epoch 40/100
+----------
+train EpochLoss: 31.4348 
+learning rate is 0.01
+BestLoss: 37.6222 is Epoch40 
+val EpochLoss: 37.6222 
+Epoch 41/100
+----------
+train EpochLoss: 30.9551 
+learning rate is 0.01
+BestLoss: 37.4925 is Epoch41 
+val EpochLoss: 37.4925 
+Epoch 42/100
+----------
+train EpochLoss: 30.7401 
+learning rate is 0.01
+val EpochLoss: 37.6024 
+Epoch 43/100
+----------
+train EpochLoss: 30.5244 
+learning rate is 0.01
+val EpochLoss: 37.5817 
+Epoch 44/100
+----------
+train EpochLoss: 30.6535 
+learning rate is 0.005
+val EpochLoss: 38.7036 
+Epoch 45/100
+----------
+train EpochLoss: 29.9171 
+learning rate is 0.005
+val EpochLoss: 37.5568 
+Epoch 46/100
+----------
+train EpochLoss: 29.1661 
+learning rate is 0.005
+BestLoss: 37.1333 is Epoch46 
+val EpochLoss: 37.1333 
+Epoch 47/100
+----------
+train EpochLoss: 28.9375 
+learning rate is 0.005
+val EpochLoss: 37.5554 
+Epoch 48/100
+----------
+train EpochLoss: 28.8285 
+learning rate is 0.005
+val EpochLoss: 37.1880 
+Epoch 49/100
+----------
+train EpochLoss: 28.6348 
+learning rate is 0.0025
+val EpochLoss: 37.1831 
+Epoch 50/100
+----------
+train EpochLoss: 28.2906 
+learning rate is 0.0025
+val EpochLoss: 37.3071 
+Epoch 51/100
+----------
+train EpochLoss: 28.1416 
+learning rate is 0.0025
+val EpochLoss: 37.1510 
+Epoch 52/100
+----------
+train EpochLoss: 28.0499 
+learning rate is 0.00125
+val EpochLoss: 37.3172 
+Epoch 53/100
+----------
+
+
+train EpochLoss: 30.3813 
+learning rate is 0.01
+BestLoss: 34.3308 is Epoch8 
+val EpochLoss: 34.3308 
+Epoch 9/60
+----------
+
+----------
+train EpochLoss: 114.1972 
+learning rate is 0.01
+BestLoss: 98.9136 is Epoch1 
+val EpochLoss: 98.9136 
+Epoch 2/100
+----------
+train EpochLoss: 98.7803 
+learning rate is 0.01
+BestLoss: 94.2656 is Epoch2 
+val EpochLoss: 94.2656 
+Epoch 3/100
+----------
+train EpochLoss: 94.2111 
+learning rate is 0.01
+BestLoss: 91.2645 is Epoch3 
+val EpochLoss: 91.2645 
+Epoch 4/100
+----------
+train EpochLoss: 92.0824 
+learning rate is 0.01
+BestLoss: 89.3077 is Epoch4 
+val EpochLoss: 89.3077 
+Epoch 5/100
+----------
+train EpochLoss: 90.6380 
+learning rate is 0.01
+BestLoss: 88.6426 is Epoch5 
+val EpochLoss: 88.6426 
+Epoch 6/100
+----------
+train EpochLoss: 89.5488 
+learning rate is 0.01
+BestLoss: 87.7298 is Epoch6 
+val EpochLoss: 87.7298 
+Epoch 7/100
+----------
+train EpochLoss: 89.1199 
+learning rate is 0.01
+BestLoss: 87.5142 is Epoch7 
+val EpochLoss: 87.5142 
+Epoch 8/100
+----------
+train EpochLoss: 88.4194 
+learning rate is 0.01
+BestLoss: 87.1213 is Epoch8 
+val EpochLoss: 87.1213 
+Epoch 9/100
+----------
+train EpochLoss: 88.0375 
+learning rate is 0.01
+val EpochLoss: 87.2063 
+Epoch 10/100
+----------
+train EpochLoss: 87.5021 
+learning rate is 0.01
+BestLoss: 87.0474 is Epoch10 
+val EpochLoss: 87.0474 
+Epoch 11/100
+----------
+
+----------
+train EpochLoss: 112.5607 
+learning rate is 0.01
+BestLoss: 98.7225 is Epoch1 
+val EpochLoss: 98.7225 
+Epoch 2/100
+----------
+train EpochLoss: 98.1625 
+learning rate is 0.01
+BestLoss: 93.6812 is Epoch2 
+val EpochLoss: 93.6812 
+Epoch 3/100
+----------
+train EpochLoss: 94.3439 
+learning rate is 0.01
+BestLoss: 90.9531 is Epoch3 
+val EpochLoss: 90.9531 
+Epoch 4/100
+----------
+train EpochLoss: 91.9898 
+learning rate is 0.01
+BestLoss: 89.1560 is Epoch4 
+val EpochLoss: 89.1560 
+Epoch 5/100
+----------
+
+Epoch 1/100
+----------
+train EpochLoss: 112.4053 
+learning rate is 0.01
+BestLoss: 97.7786 is Epoch1 
+val EpochLoss: 97.7786 
+Epoch 2/100
+----------
+train EpochLoss: 97.0854 
+learning rate is 0.01
+BestLoss: 92.0866 is Epoch2 
+val EpochLoss: 92.0866 
+Epoch 3/100
+----------
+train EpochLoss: 93.0794 
+learning rate is 0.01
+BestLoss: 90.2836 is Epoch3 
+val EpochLoss: 90.2836 
+Epoch 4/100
+----------
+train EpochLoss: 91.0329 
+learning rate is 0.01
+BestLoss: 88.6046 is Epoch4 
+val EpochLoss: 88.6046 
+Epoch 5/100
+----------
+
+Epoch 1/100
+----------
+train EpochLoss: 107.8963 
+learning rate is 0.01
+BestLoss: 93.4367 is Epoch1 
+val EpochLoss: 93.4367 
+Epoch 2/100
+----------
+train EpochLoss: 92.8027 
+learning rate is 0.01
+BestLoss: 88.3437 is Epoch2 
+val EpochLoss: 88.3437 
+Epoch 3/100
+----------
+train EpochLoss: 89.3586 
+learning rate is 0.01
+BestLoss: 86.5449 is Epoch3 
+val EpochLoss: 86.5449 
+Epoch 4/100
+----------
+train EpochLoss: 87.8377 
+learning rate is 0.01
+BestLoss: 85.7072 is Epoch4 
+val EpochLoss: 85.7072 
+Epoch 5/100
+----------
+train EpochLoss: 86.7505 
+learning rate is 0.01
+BestLoss: 85.2286 is Epoch5 
+val EpochLoss: 85.2286 
+Epoch 6/100
+----------
+
+----------
+train EpochLoss: 175.0920 
+learning rate is 0.01
+BestLoss: 120.8165 is Epoch1 
+val EpochLoss: 120.8165 
+Epoch 2/100
+----------
+train EpochLoss: 130.7892 
+learning rate is 0.01
+BestLoss: 114.3011 is Epoch2 
+val EpochLoss: 114.3011 
+Epoch 3/100
+----------
+train EpochLoss: 125.9481 
+learning rate is 0.01
+BestLoss: 111.2609 is Epoch3 
+val EpochLoss: 111.2609 
+Epoch 4/100
+
+Epoch 1/100
+----------
+train EpochLoss: 170.9620 
+learning rate is 0.01
+BestLoss: 119.1145 is Epoch1 
+val EpochLoss: 119.1145 
+Epoch 2/100
+----------
+train EpochLoss: 129.5683 
+learning rate is 0.01
+BestLoss: 113.0087 is Epoch2 
+val EpochLoss: 113.0087 
+Epoch 3/100
+----------
+
+
+/usr/bin/python2.7 /home/dongjing/PycharmProjects/LSTM_baseline/LSTM4enhancement.py
+Epoch 1/100
+----------
+train EpochLoss: 189.7627 
+learning rate is 0.01
+BestLoss: 107.7866 is Epoch1 
+val EpochLoss: 107.7866 
+Epoch 2/100
+----------
+train EpochLoss: 114.6786 
+learning rate is 0.01
+BestLoss: 98.3386 is Epoch2 
+val EpochLoss: 98.3386 
+Epoch 3/100
+----------
+train EpochLoss: 108.3800 
+learning rate is 0.01
+BestLoss: 93.9725 is Epoch3 
+val EpochLoss: 93.9725 
+Epoch 4/100
+----------
+train EpochLoss: 104.8362 
+learning rate is 0.01
+BestLoss: 91.7228 is Epoch4 
+val EpochLoss: 91.7228 
+Epoch 5/100
+----------
+train EpochLoss: 102.5664 
+learning rate is 0.01
+BestLoss: 90.3550 is Epoch5 
+val EpochLoss: 90.3550 
+Epoch 6/100
+----------
+train EpochLoss: 100.5384 
+learning rate is 0.01
+BestLoss: 89.0777 is Epoch6 
+val EpochLoss: 89.0777 
+Epoch 7/100
+----------
+train EpochLoss: 98.7829 
+learning rate is 0.01
+BestLoss: 87.8360 is Epoch7 
+val EpochLoss: 87.8360 
+Epoch 8/100
+----------
+train EpochLoss: 97.5494 
+learning rate is 0.01
+BestLoss: 87.1524 is Epoch8 
+val EpochLoss: 87.1524 
+Epoch 9/100
+----------
+train EpochLoss: 96.6694 
+learning rate is 0.01
+BestLoss: 86.6317 is Epoch9 
+val EpochLoss: 86.6317 
+Epoch 10/100
+----------
+train EpochLoss: 95.7101 
+learning rate is 0.01
+BestLoss: 85.9539 is Epoch10 
+val EpochLoss: 85.9539 
+Epoch 11/100
+----------
+train EpochLoss: 95.1345 
+learning rate is 0.01
+BestLoss: 85.3105 is Epoch11 
+val EpochLoss: 85.3105 
+Epoch 12/100
+----------
+train EpochLoss: 94.3752 
+learning rate is 0.01
+val EpochLoss: 85.3798 
+Epoch 13/100
+----------
+train EpochLoss: 93.9724 
+learning rate is 0.01
+BestLoss: 84.8984 is Epoch13 
+val EpochLoss: 84.8984 
+Epoch 14/100
+----------
+train EpochLoss: 93.4599 
+learning rate is 0.01
+BestLoss: 84.5832 is Epoch14 
+val EpochLoss: 84.5832 
+Epoch 15/100
+----------
+train EpochLoss: 92.4280 
+learning rate is 0.01
+BestLoss: 84.1870 is Epoch15 
+val EpochLoss: 84.1870 
+Epoch 16/100
+----------
+train EpochLoss: 91.9330 
+learning rate is 0.01
+val EpochLoss: 84.6890 
+Epoch 17/100
+----------
+train EpochLoss: 91.3495 
+learning rate is 0.01
+val EpochLoss: 84.2154 
+Epoch 18/100
+----------
+train EpochLoss: 90.9465 
+learning rate is 0.01
+BestLoss: 83.8277 is Epoch18 
+val EpochLoss: 83.8277 
+Epoch 19/100
+----------
+train EpochLoss: 90.4784 
+learning rate is 0.01
+BestLoss: 83.3318 is Epoch19 
+val EpochLoss: 83.3318 
+Epoch 20/100
+----------
+train EpochLoss: 90.0097 
+learning rate is 0.01
+BestLoss: 83.0257 is Epoch20 
+val EpochLoss: 83.0257 
+Epoch 21/100
+----------
+train EpochLoss: 89.6061 
+learning rate is 0.01
+val EpochLoss: 83.2702 
+Epoch 22/100
+----------
+train EpochLoss: 89.1139 
+learning rate is 0.01
+val EpochLoss: 83.4255 
+Epoch 23/100
+----------
+train EpochLoss: 88.6898 
+learning rate is 0.005
+val EpochLoss: 83.1168 
+Epoch 24/100
+----------
+train EpochLoss: 87.8612 
+learning rate is 0.005
+BestLoss: 82.7372 is Epoch24 
+val EpochLoss: 82.7372 
+Epoch 25/100
+----------
+train EpochLoss: 87.4602 
+learning rate is 0.005
+val EpochLoss: 82.7528 
+Epoch 26/100
+----------
+train EpochLoss: 87.1097 
+learning rate is 0.005
+BestLoss: 82.4819 is Epoch26 
+val EpochLoss: 82.4819 
+Epoch 27/100
+----------
+train EpochLoss: 87.0544 
+learning rate is 0.005
+BestLoss: 82.4370 is Epoch27 
+val EpochLoss: 82.4370 
+Epoch 28/100
+----------
+train EpochLoss: 86.7152 
+learning rate is 0.005
+BestLoss: 82.4340 is Epoch28 
+val EpochLoss: 82.4340 
+Epoch 29/100
+----------
+train EpochLoss: 86.4683 
+learning rate is 0.005
+BestLoss: 82.3669 is Epoch29 
+val EpochLoss: 82.3669 
+Epoch 30/100
+----------
+train EpochLoss: 86.3933 
+learning rate is 0.005
+BestLoss: 82.2732 is Epoch30 
+val EpochLoss: 82.2732 
+Epoch 31/100
+----------
+train EpochLoss: 86.2318 
+learning rate is 0.005
+val EpochLoss: 82.4692 
+Epoch 32/100
+----------
+train EpochLoss: 85.8505 
+learning rate is 0.005
+BestLoss: 82.1372 is Epoch32 
+val EpochLoss: 82.1372 
+Epoch 33/100
+----------
+train EpochLoss: 85.6484 
+learning rate is 0.005
+val EpochLoss: 82.1700 
+Epoch 34/100
+----------
+train EpochLoss: 85.5153 
+learning rate is 0.005
+BestLoss: 81.7996 is Epoch34 
+val EpochLoss: 81.7996 
+Epoch 35/100
+----------
+train EpochLoss: 85.4038 
+learning rate is 0.005
+val EpochLoss: 82.1144 
+Epoch 36/100
+----------
+train EpochLoss: 85.2536 
+learning rate is 0.005
+val EpochLoss: 81.8870 
+Epoch 37/100
+----------
+train EpochLoss: 85.1361 
+learning rate is 0.005
+BestLoss: 81.6552 is Epoch37 
+val EpochLoss: 81.6552 
+Epoch 38/100
+----------
+train EpochLoss: 84.8156 
+learning rate is 0.005
+val EpochLoss: 81.7375 
+Epoch 39/100
+----------
+train EpochLoss: 84.8462 
+learning rate is 0.005
+val EpochLoss: 81.7085 
+Epoch 40/100
+----------
+train EpochLoss: 84.8247 
+learning rate is 0.005
+BestLoss: 81.5216 is Epoch40 
+val EpochLoss: 81.5216 
+Epoch 41/100
+----------
+train EpochLoss: 84.5914 
+learning rate is 0.005
+val EpochLoss: 81.8842 
+Epoch 42/100
+----------
+train EpochLoss: 84.5631 
+learning rate is 0.005
+val EpochLoss: 81.5481 
+Epoch 43/100
+----------
+train EpochLoss: 84.5592 
+learning rate is 0.0025
+val EpochLoss: 81.7708 
+Epoch 44/100
+----------
+train EpochLoss: 84.5880 
+learning rate is 0.0025
+BestLoss: 81.4781 is Epoch44 
+val EpochLoss: 81.4781 
+Epoch 45/100
+----------
+train EpochLoss: 83.8994 
+learning rate is 0.0025
+val EpochLoss: 81.6032 
+Epoch 46/100
+----------
+train EpochLoss: 83.9407 
+learning rate is 0.0025
+val EpochLoss: 81.6126 
+Epoch 47/100
+----------
+train EpochLoss: 84.1424 
+learning rate is 0.0025
+BestLoss: 81.4280 is Epoch47 
+val EpochLoss: 81.4280 
+Epoch 48/100
+----------
+train EpochLoss: 83.8975 
+learning rate is 0.0025
+val EpochLoss: 81.5520 
+Epoch 49/100
+----------
+train EpochLoss: 83.6329 
+learning rate is 0.0025
+BestLoss: 81.4241 is Epoch49 
+val EpochLoss: 81.4241 
+Epoch 50/100
+----------
+train EpochLoss: 83.9434 
+learning rate is 0.00125
+val EpochLoss: 81.4456 
+Epoch 51/100
+----------
+train EpochLoss: 83.6515 
+learning rate is 0.00125
+BestLoss: 80.9369 is Epoch51 
+val EpochLoss: 80.9369 
+Epoch 52/100
+----------
+train EpochLoss: 83.7650 
+learning rate is 0.00125
+val EpochLoss: 81.4314 
+Epoch 53/100
+----------
+train EpochLoss: 83.8190 
+learning rate is 0.00125
+val EpochLoss: 81.7212 
+Epoch 54/100
+----------
+train EpochLoss: 83.5796 
+learning rate is 0.000625
+val EpochLoss: 81.2580 
+Epoch 55/100
+----------
+train EpochLoss: 83.5104 
+learning rate is 0.000625
+val EpochLoss: 81.3130 
+Epoch 56/100
+----------
+train EpochLoss: 83.6190 
+learning rate is 0.000625
+val EpochLoss: 81.5028 
+Epoch 57/100
+----------
+train EpochLoss: 83.5956 
+learning rate is 0.0003125
+val EpochLoss: 81.0633 
+Epoch 58/100
+----------
+Valloss do not improve at 6 epochs,so break
+
+Process finished with exit code 0
+
+rain EpochLoss: 172.0140 
+learning rate is 0.01
+BestLoss: 119.5301 is Epoch1 
+val EpochLoss: 119.5301 
+Epoch 2/100
+----------
+train EpochLoss: 129.5593 
+learning rate is 0.01
+BestLoss: 113.5861 is Epoch2 
+val EpochLoss: 113.5861 
+Epoch 3/100
+----------
+
+
+/usr/bin/python2.7 /home/dongjing/PycharmProjects/LSTM_baseline/LSTM4enhancement-nolog-norm.py
+Epoch 1/100
+----------
+train EpochLoss: 183.8435 
+learning rate is 0.01
+BestLoss: 105.8834 is Epoch1 
+val EpochLoss: 105.8834 
+Epoch 2/100
+----------
+train EpochLoss: 113.2292 
+learning rate is 0.01
+BestLoss: 97.1026 is Epoch2 
+val EpochLoss: 97.1026 
+Epoch 3/100
+----------
+train EpochLoss: 106.9217 
+learning rate is 0.01
+BestLoss: 93.0609 is Epoch3 
+val EpochLoss: 93.0609 
+Epoch 4/100
+----------
+train EpochLoss: 103.4988 
+learning rate is 0.01
+BestLoss: 91.5561 is Epoch4 
+val EpochLoss: 91.5561 
+Epoch 5/100
+----------
+train EpochLoss: 101.4285 
+learning rate is 0.01
+BestLoss: 89.6058 is Epoch5 
+val EpochLoss: 89.6058 
+Epoch 6/100
+----------
+train EpochLoss: 99.6964 
+learning rate is 0.01
+BestLoss: 88.2645 is Epoch6 
+val EpochLoss: 88.2645 
+Epoch 7/100
+----------
+train EpochLoss: 98.2681 
+learning rate is 0.01
+BestLoss: 87.4891 is Epoch7 
+val EpochLoss: 87.4891 
+Epoch 8/100
+----------
+train EpochLoss: 96.6215 
+learning rate is 0.01
+BestLoss: 86.0784 is Epoch8 
+val EpochLoss: 86.0784 
+Epoch 9/100
+----------
+train EpochLoss: 95.9893 
+learning rate is 0.01
+BestLoss: 85.6646 is Epoch9 
+val EpochLoss: 85.6646 
+Epoch 10/100
+----------
+train EpochLoss: 94.9553 
+learning rate is 0.01
+BestLoss: 85.4735 is Epoch10 
+val EpochLoss: 85.4735 
+Epoch 11/100
+----------
+train EpochLoss: 93.9609 
+learning rate is 0.01
+BestLoss: 83.9832 is Epoch11 
+val EpochLoss: 83.9832 
+Epoch 12/100
+----------
+train EpochLoss: 93.0964 
+learning rate is 0.01
+val EpochLoss: 84.0432 
+Epoch 13/100
+----------
+
+
+/usr/bin/python2.7 /home/dongjing/PycharmProjects/LSTM_baseline/LSTM4enhancement-nolog-norm.py
+Epoch 1/100
+----------
+train EpochLoss: 113.3678 
+learning rate is 0.01
+BestLoss: 86.8064 is Epoch1 
+val EpochLoss: 86.8064 
+Epoch 2/100
+----------
+train EpochLoss: 88.4422 
+learning rate is 0.01
+BestLoss: 76.2127 is Epoch2 
+val EpochLoss: 76.2127 
+Epoch 3/100
+----------
+train EpochLoss: 80.3506 
+learning rate is 0.01
+BestLoss: 70.6908 is Epoch3 
+val EpochLoss: 70.6908 
+Epoch 4/100
+----------
+train EpochLoss: 74.1413 
+learning rate is 0.01
+BestLoss: 67.8064 is Epoch4 
+val EpochLoss: 67.8064 
+Epoch 5/100
+----------
+train EpochLoss: 71.3950 
+learning rate is 0.01
+BestLoss: 65.8681 is Epoch5 
+val EpochLoss: 65.8681 
+Epoch 6/100
+----------
+train EpochLoss: 68.7466 
+learning rate is 0.01
+BestLoss: 64.0480 is Epoch6 
+val EpochLoss: 64.0480 
+Epoch 7/100
+----------
+train EpochLoss: 66.6026 
+learning rate is 0.01
+BestLoss: 63.4987 is Epoch7 
+val EpochLoss: 63.4987 
+Epoch 8/100
+----------
+train EpochLoss: 62.8977 
+learning rate is 0.01
+BestLoss: 61.6812 is Epoch8 
+val EpochLoss: 61.6812 
+Epoch 9/100
+----------
+train EpochLoss: 60.6121 
+learning rate is 0.01
+BestLoss: 59.6554 is Epoch9 
+val EpochLoss: 59.6554 
+Epoch 10/100
+----------
+train EpochLoss: 58.7204 
+learning rate is 0.01
+BestLoss: 59.3878 is Epoch10 
+val EpochLoss: 59.3878 
+Epoch 11/100
+----------
+train EpochLoss: 57.9383 
+learning rate is 0.01
+BestLoss: 58.8058 is Epoch11 
+val EpochLoss: 58.8058 
+Epoch 12/100
+----------
+train EpochLoss: 56.2122 
+learning rate is 0.01
+BestLoss: 57.9343 is Epoch12 
+val EpochLoss: 57.9343 
+Epoch 13/100
+----------
+train EpochLoss: 53.9448 
+learning rate is 0.01
+val EpochLoss: 58.7986 
+Epoch 14/100
+----------
+train EpochLoss: 52.5000 
+learning rate is 0.01
+BestLoss: 57.2526 is Epoch14 
+val EpochLoss: 57.2526 
+Epoch 15/100
+----------
+train EpochLoss: 51.1007 
+learning rate is 0.01
+BestLoss: 56.0109 is Epoch15 
+val EpochLoss: 56.0109 
+Epoch 16/100
+----------
+train EpochLoss: 50.1883 
+learning rate is 0.01
+val EpochLoss: 56.0535 
+Epoch 17/100
+----------
+train EpochLoss: 48.9899 
+learning rate is 0.01
+BestLoss: 55.8936 is Epoch17 
+val EpochLoss: 55.8936 
+Epoch 18/100
+----------
+train EpochLoss: 47.8865 
+learning rate is 0.01
+val EpochLoss: 55.9072 
+Epoch 19/100
+----------
+train EpochLoss: 46.9178 
+learning rate is 0.01
+BestLoss: 55.5021 is Epoch19 
+val EpochLoss: 55.5021 
+Epoch 20/100
+----------
+train EpochLoss: 46.3949 
+learning rate is 0.01
+val EpochLoss: 55.5524 
+Epoch 21/100
+----------
+train EpochLoss: 46.0613 
+learning rate is 0.01
+val EpochLoss: 55.5644 
+Epoch 22/100
+----------
+train EpochLoss: 45.3057 
+learning rate is 0.01
+BestLoss: 54.9220 is Epoch22 
+val EpochLoss: 54.9220 
+Epoch 23/100
+----------
+train EpochLoss: 44.5812 
+learning rate is 0.01
+BestLoss: 54.8173 is Epoch23 
+val EpochLoss: 54.8173 
+Epoch 24/100
+----------
+train EpochLoss: 43.8845 
+learning rate is 0.01
+BestLoss: 54.5376 is Epoch24 
+val EpochLoss: 54.5376 
+Epoch 25/100
+----------
+train EpochLoss: 43.1787 
+learning rate is 0.01
+BestLoss: 53.7587 is Epoch25 
+val EpochLoss: 53.7587 
+Epoch 26/100
+----------
+train EpochLoss: 42.4190 
+learning rate is 0.01
+val EpochLoss: 54.0958 
+Epoch 27/100
+----------
+train EpochLoss: 42.1776 
+learning rate is 0.01
+BestLoss: 53.6298 is Epoch27 
+val EpochLoss: 53.6298 
+Epoch 28/100
+----------
+train EpochLoss: 41.6979 
+learning rate is 0.01
+val EpochLoss: 54.0837 
+Epoch 29/100
+----------
+train EpochLoss: 41.3254 
+learning rate is 0.01
+val EpochLoss: 54.4944 
+Epoch 30/100
+----------
+train EpochLoss: 40.8867 
+learning rate is 0.01
+BestLoss: 53.4790 is Epoch30 
+val EpochLoss: 53.4790 
+Epoch 31/100
+----------
+train EpochLoss: 40.5204 
+learning rate is 0.01
+val EpochLoss: 53.5217 
+Epoch 32/100
+----------
+train EpochLoss: 40.4776 
+learning rate is 0.01
+val EpochLoss: 54.3922 
+Epoch 33/100
+----------
+train EpochLoss: 40.2509 
+learning rate is 0.005
+val EpochLoss: 53.8433 
+Epoch 34/100
+----------
+train EpochLoss: 39.1884 
+learning rate is 0.005
+BestLoss: 52.8909 is Epoch34 
+val EpochLoss: 52.8909 
+Epoch 35/100
+----------
+train EpochLoss: 38.4304 
+learning rate is 0.005
+val EpochLoss: 52.9678 
+Epoch 36/100
+----------
+train EpochLoss: 38.0603 
+learning rate is 0.005
+val EpochLoss: 52.9168 
+Epoch 37/100
+----------
+train EpochLoss: 37.6344 
+learning rate is 0.005
+BestLoss: 52.8147 is Epoch37 
+val EpochLoss: 52.8147 
+Epoch 38/100
+----------
+train EpochLoss: 37.4783 
+learning rate is 0.005
+val EpochLoss: 53.2448 
+Epoch 39/100
+----------
+train EpochLoss: 37.2129 
+learning rate is 0.005
+val EpochLoss: 52.8349 
+Epoch 40/100
+----------
+train EpochLoss: 36.8339 
+learning rate is 0.005
+BestLoss: 52.7858 is Epoch40 
+val EpochLoss: 52.7858 
+Epoch 41/100
+----------
+train EpochLoss: 36.7001 
+learning rate is 0.005
+val EpochLoss: 53.0552 
+Epoch 42/100
+----------
+train EpochLoss: 36.4747 
+learning rate is 0.005
+val EpochLoss: 53.1642 
+Epoch 43/100
+----------
+train EpochLoss: 36.1875 
+learning rate is 0.0025
+val EpochLoss: 52.9199 
+Epoch 44/100
+----------
+train EpochLoss: 35.7016 
+learning rate is 0.0025
+BestLoss: 52.5672 is Epoch44 
+val EpochLoss: 52.5672 
+Epoch 45/100
+----------
+train EpochLoss: 35.4502 
+learning rate is 0.0025
+val EpochLoss: 52.5936 
+Epoch 46/100
+----------
+train EpochLoss: 35.3152 
+learning rate is 0.0025
+val EpochLoss: 52.6373 
+Epoch 47/100
+----------
+train EpochLoss: 35.2702 
+learning rate is 0.0025
+BestLoss: 52.3787 is Epoch47 
+val EpochLoss: 52.3787 
+Epoch 48/100
+----------
+train EpochLoss: 35.1738 
+learning rate is 0.0025
+val EpochLoss: 52.7727 
+Epoch 49/100
+----------
+train EpochLoss: 35.1296 
+learning rate is 0.0025
+val EpochLoss: 52.4994 
+Epoch 50/100
+----------
+train EpochLoss: 34.9911 
+learning rate is 0.00125
+val EpochLoss: 52.9832 
+Epoch 51/100
+----------
+train EpochLoss: 34.9173 
+learning rate is 0.00125
+val EpochLoss: 52.7737 
+Epoch 52/100
+
+
+/usr/bin/python2.7 /home/dongjing/PycharmProjects/LSTM_baseline/LSTM4enhancement-nolog-norm.py
+Epoch 1/100
+----------
+train EpochLoss: 127.2762 
+learning rate is 0.01
+BestLoss: 102.7186 is Epoch1 
+val EpochLoss: 102.7186 
+Epoch 2/100
+----------
+train EpochLoss: 105.0807 
+learning rate is 0.01
+BestLoss: 84.4230 is Epoch2 
+val EpochLoss: 84.4230 
+Epoch 3/100
+----------
+train EpochLoss: 90.1920 
+learning rate is 0.01
+BestLoss: 76.4277 is Epoch3 
+val EpochLoss: 76.4277 
+Epoch 4/100
+----------
+train EpochLoss: 82.4601 
+learning rate is 0.01
+BestLoss: 70.6740 is Epoch4 
+val EpochLoss: 70.6740 
+Epoch 5/100
+----------
+train EpochLoss: 77.7120 
+learning rate is 0.01
+BestLoss: 67.4635 is Epoch5 
+val EpochLoss: 67.4635 
+Epoch 6/100
+----------
+train EpochLoss: 74.2650 
+learning rate is 0.01
+BestLoss: 64.8805 is Epoch6 
+val EpochLoss: 64.8805 
+Epoch 7/100
+----------
+train EpochLoss: 71.4146 
+learning rate is 0.01
+BestLoss: 64.3216 is Epoch7 
+val EpochLoss: 64.3216 
+Epoch 8/100
+----------
+train EpochLoss: 70.4215 
+learning rate is 0.01
+val EpochLoss: 65.2694 
+Epoch 9/100
+----------
+train EpochLoss: 68.0871 
+learning rate is 0.01
+BestLoss: 60.8991 is Epoch9 
+val EpochLoss: 60.8991 
+Epoch 10/100
+----------
+train EpochLoss: 65.3719 
+learning rate is 0.01
+BestLoss: 59.5013 is Epoch10 
+val EpochLoss: 59.5013 
+Epoch 11/100
+----------
+train EpochLoss: 64.0430 
+learning rate is 0.01
+BestLoss: 58.6001 is Epoch11 
+val EpochLoss: 58.6001 
+Epoch 12/100
+----------
+train EpochLoss: 63.0265 
+learning rate is 0.01
+BestLoss: 58.5261 is Epoch12 
+val EpochLoss: 58.5261 
+Epoch 13/100
+----------
+train EpochLoss: 61.9681 
+learning rate is 0.01
+BestLoss: 58.2874 is Epoch13 
+val EpochLoss: 58.2874 
+Epoch 14/100
+----------
+train EpochLoss: 60.5382 
+learning rate is 0.01
+BestLoss: 58.1472 is Epoch14 
+val EpochLoss: 58.1472 
+Epoch 15/100
+----------
+train EpochLoss: 59.4525 
+learning rate is 0.01
+BestLoss: 56.4835 is Epoch15 
+val EpochLoss: 56.4835 
+Epoch 16/100
+----------
+train EpochLoss: 58.2020 
+learning rate is 0.01
+BestLoss: 55.8870 is Epoch16 
+val EpochLoss: 55.8870 
+Epoch 17/100
+----------
+train EpochLoss: 57.2058 
+learning rate is 0.01
+BestLoss: 55.7653 is Epoch17 
+val EpochLoss: 55.7653 
+Epoch 18/100
+----------
+train EpochLoss: 56.0021 
+learning rate is 0.01
+BestLoss: 55.0527 is Epoch18 
+val EpochLoss: 55.0527 
+Epoch 19/100
+----------
+train EpochLoss: 55.1606 
+learning rate is 0.01
+BestLoss: 54.7653 is Epoch19 
+val EpochLoss: 54.7653 
+Epoch 20/100
+----------
+train EpochLoss: 54.5689 
+learning rate is 0.01
+BestLoss: 54.0611 is Epoch20 
+val EpochLoss: 54.0611 
+Epoch 21/100
+----------
+train EpochLoss: 53.7795 
+learning rate is 0.01
+BestLoss: 54.0364 is Epoch21 
+val EpochLoss: 54.0364 
+Epoch 22/100
+----------
+train EpochLoss: 52.9931 
+learning rate is 0.01
+BestLoss: 53.9758 is Epoch22 
+val EpochLoss: 53.9758 
+Epoch 23/100
+----------
+train EpochLoss: 52.2763 
+learning rate is 0.01
+BestLoss: 53.8136 is Epoch23 
+val EpochLoss: 53.8136 
+Epoch 24/100
+----------
+train EpochLoss: 51.5304 
+learning rate is 0.01
+BestLoss: 53.4754 is Epoch24 
+val EpochLoss: 53.4754 
+Epoch 25/100
+----------
+train EpochLoss: 51.2451 
+learning rate is 0.01
+BestLoss: 52.6076 is Epoch25 
+val EpochLoss: 52.6076 
+Epoch 26/100
+----------
+train EpochLoss: 50.5369 
+learning rate is 0.01
+val EpochLoss: 52.6996 
+Epoch 27/100
+----------
+train EpochLoss: 50.3620 
+learning rate is 0.01
+val EpochLoss: 52.8998 
+Epoch 28/100
+----------
+train EpochLoss: 50.2402 
+learning rate is 0.005
+val EpochLoss: 53.2965 
+Epoch 29/100
+----------
+train EpochLoss: 48.8954 
+learning rate is 0.005
+BestLoss: 51.8203 is Epoch29 
+val EpochLoss: 51.8203 
+Epoch 30/100
+----------
+train EpochLoss: 47.9668 
+learning rate is 0.005
+BestLoss: 51.2872 is Epoch30 
+val EpochLoss: 51.2872 
+Epoch 31/100
+----------
+train EpochLoss: 47.3487 
+learning rate is 0.005
+val EpochLoss: 51.6031 
+Epoch 32/100
+----------
+train EpochLoss: 47.0649 
+learning rate is 0.005
+val EpochLoss: 51.3504 
+Epoch 33/100
+----------
+train EpochLoss: 46.6472 
+learning rate is 0.0025
+val EpochLoss: 51.3176 
+Epoch 34/100
+----------
+train EpochLoss: 46.1169 
+learning rate is 0.0025
+BestLoss: 51.0194 is Epoch34 
+val EpochLoss: 51.0194 
+Epoch 35/100
+----------
+train EpochLoss: 45.9725 
+learning rate is 0.0025
+val EpochLoss: 51.1355 
+Epoch 36/100
+----------
+train EpochLoss: 45.7240 
+learning rate is 0.0025
+val EpochLoss: 51.3166 
+Epoch 37/100
+----------
+train EpochLoss: 45.7020 
+learning rate is 0.0025
+BestLoss: 50.9889 is Epoch37 
+val EpochLoss: 50.9889 
+Epoch 38/100
+----------
+train EpochLoss: 45.5174 
+learning rate is 0.0025
+BestLoss: 50.8532 is Epoch38 
+val EpochLoss: 50.8532 
+Epoch 39/100
+----------
+train EpochLoss: 45.3384 
+learning rate is 0.0025
+val EpochLoss: 51.0476 
+Epoch 40/100
+----------
+train EpochLoss: 45.2547 
+learning rate is 0.0025
+BestLoss: 50.6876 is Epoch40 
+val EpochLoss: 50.6876 
+Epoch 41/100
+----------
+train EpochLoss: 45.0779 
+learning rate is 0.0025
+val EpochLoss: 50.8013 
+Epoch 42/100
+----------
+train EpochLoss: 45.0843 
+learning rate is 0.0025
+val EpochLoss: 50.7522 
+Epoch 43/100
+----------
+train EpochLoss: 44.9319 
+learning rate is 0.0025
+BestLoss: 50.6777 is Epoch43 
+val EpochLoss: 50.6777 
+Epoch 44/100
+----------
+train EpochLoss: 44.7704 
+learning rate is 0.0025
+val EpochLoss: 50.8045 
+Epoch 45/100
+----------
+train EpochLoss: 44.7116 
+learning rate is 0.0025
+val EpochLoss: 50.9210 
+Epoch 46/100
+----------
+train EpochLoss: 44.5634 
+learning rate is 0.0025
+BestLoss: 50.5422 is Epoch46 
+val EpochLoss: 50.5422 
+Epoch 47/100
+----------
+train EpochLoss: 44.6214 
+learning rate is 0.0025
+val EpochLoss: 50.7192 
+Epoch 48/100
+----------
+train EpochLoss: 44.2886 
+learning rate is 0.0025
+val EpochLoss: 50.5803 
+Epoch 49/100
+----------
+train EpochLoss: 44.1727 
+learning rate is 0.0025
+BestLoss: 50.3539 is Epoch49 
+val EpochLoss: 50.3539 
+Epoch 50/100
+----------
+train EpochLoss: 43.9542 
+learning rate is 0.0025
+val EpochLoss: 50.4427 
+Epoch 51/100
+----------
+train EpochLoss: 43.9727 
+learning rate is 0.0025
+val EpochLoss: 50.6369 
+Epoch 52/100
+----------
+train EpochLoss: 43.8148 
+learning rate is 0.00125
+val EpochLoss: 50.6615 
+Epoch 53/100
+----------
+train EpochLoss: 43.7222 
+learning rate is 0.00125
+val EpochLoss: 50.5056 
+Epoch 54/100
+----------
+train EpochLoss: 43.6329 
+learning rate is 0.00125
+val EpochLoss: 50.5437 
+Epoch 55/100
+----------
+
+/usr/bin/python2.7 /home/dongjing/PycharmProjects/LSTM_baseline/demo-notnormdic-normAC.py
+Epoch 1/100
+----------
+train EpochLoss: 296.7352 
+learning rate is 0.01
+BestLoss: 85.0642 is Epoch1 
+val EpochLoss: 85.0642 
+Epoch 2/100
+----------
+train EpochLoss: 86.4081 
+learning rate is 0.01
+BestLoss: 69.2247 is Epoch2 
+val EpochLoss: 69.2247 
+Epoch 3/100
+----------
+train EpochLoss: 73.0025 
+learning rate is 0.01
+BestLoss: 61.4688 is Epoch3 
+val EpochLoss: 61.4688 
+Epoch 4/100
+----------
+train EpochLoss: 68.3772 
+learning rate is 0.01
+BestLoss: 59.2607 is Epoch4 
+val EpochLoss: 59.2607 
+Epoch 5/100
+----------
+train EpochLoss: 64.5454 
+learning rate is 0.01
+BestLoss: 57.0812 is Epoch5 
+val EpochLoss: 57.0812 
+Epoch 6/100
+----------
+train EpochLoss: 61.1912 
+learning rate is 0.01
+BestLoss: 55.3081 is Epoch6 
+val EpochLoss: 55.3081 
+Epoch 7/100
+----------
+train EpochLoss: 59.1676 
+learning rate is 0.01
+BestLoss: 54.4908 is Epoch7 
+val EpochLoss: 54.4908 
+Epoch 8/100
+----------
+train EpochLoss: 57.1992 
+learning rate is 0.01
+BestLoss: 53.7365 is Epoch8 
+val EpochLoss: 53.7365 
+Epoch 9/100
+----------
+train EpochLoss: 55.6954 
+learning rate is 0.01
+val EpochLoss: 53.7426 
+Epoch 10/100
+----------
+train EpochLoss: 54.4673 
+learning rate is 0.01
+BestLoss: 53.0104 is Epoch10 
+val EpochLoss: 53.0104 
+Epoch 11/100
+----------
+train EpochLoss: 53.4829 
+learning rate is 0.01
+BestLoss: 52.7896 is Epoch11 
+val EpochLoss: 52.7896 
+Epoch 12/100
+----------
+train EpochLoss: 51.9794 
+learning rate is 0.01
+BestLoss: 51.6810 is Epoch12 
+val EpochLoss: 51.6810 
+Epoch 13/100
+----------
+train EpochLoss: 50.7853 
+learning rate is 0.01
+BestLoss: 51.2565 is Epoch13 
+val EpochLoss: 51.2565 
+Epoch 14/100
+----------
+train EpochLoss: 49.5731 
+learning rate is 0.01
+BestLoss: 51.0266 is Epoch14 
+val EpochLoss: 51.0266 
+Epoch 15/100
+----------
+train EpochLoss: 48.8543 
+learning rate is 0.01
+val EpochLoss: 51.6762 
+Epoch 16/100
+----------
+train EpochLoss: 48.2011 
+learning rate is 0.01
+val EpochLoss: 51.2295 
+Epoch 17/100
+----------
+train EpochLoss: 47.3161 
+learning rate is 0.01
+BestLoss: 50.2726 is Epoch17 
+val EpochLoss: 50.2726 
+Epoch 18/100
+----------
+train EpochLoss: 46.1960 
+learning rate is 0.01
+val EpochLoss: 50.5648 
+Epoch 19/100
+----------
+

@@ -1,0 +1,1 @@
+function error = mag_mse(ac,enhance,param);
